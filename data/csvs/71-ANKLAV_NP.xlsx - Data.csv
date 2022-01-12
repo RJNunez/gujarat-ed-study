@@ -1,0 +1,485 @@
+District,Tahesil,Village,Reg. No.,Reg. Date,Death Date,Gender,Age,Death Place,Region,Occupation,The cause of death has been medically confirmed Y/N,MONTH/YEAR
+ANAND,ANAND,ANKLAV (M),1,08/01/2019,26/12/2018,M,40 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,8-2019
+,,,2,08/01/2019,03/01/2019,M,50 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,8-2019
+,,,3,08/01/2019,03/01/2019,M,3 Year,CHC Anklav,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,8-2019
+,,,4,08/01/2019,05/01/2019,F,70 Year,House,Muslim,Non- workers,N,8-2019
+,,,5,08/01/2019,07/01/2019,F,79 Year,House,Hindu,Non- workers,N,8-2019
+,,,6,15/01/2019,09/01/2019,F,70 Year,House,Hindu,"Farmers, Fishermen, Hunters,",N,#VALUE!
+,,,7,15/01/2019,11/01/2019,F,75 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,8,15/01/2019,12/01/2019,F,94 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,9,15/01/2019,09/01/2019,M,38 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,10,15/01/2019,14/01/2019,M,45 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,11,16/01/2019,15/01/2019,M,24 Year,CHC Anklav,Hindu,Service Workers,N,#VALUE!
+,,,12,16/01/2019,15/01/2019,F,82 Year,House,Christian,Non- workers,N,#VALUE!
+,,,13,16/01/2019,15/01/2019,M,81 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,14,21/01/2019,16/01/2019,M,70 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,15,21/01/2019,19/01/2019,F,97 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,16,21/01/2019,16/01/2019,F,28 Year,Shree Hospital,Hindu,Non- workers,N,#VALUE!
+,,,17,31/01/2019,25/01/2019,M,91 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,18,31/01/2019,26/01/2019,M,68 Year,,Muslim,Non- workers,N,#VALUE!
+,,,19,31/01/2019,27/01/2019,M,40 Year,House,Muslim,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,20,31/01/2019,30/01/2019,M,65 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,21,01/02/2019,11/01/2019,M,75 Year,House,Hindu,Non- workers,N,1-2019
+,,,22,05/02/2019,05/02/2019,M,54 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,5-2019
+,,,23,07/02/2019,07/02/2019,M,89 Year,House,Hindu,Non- workers,N,7-2019
+,,,24,11/02/2019,10/02/2019,M,50 Year,House,Hindu,"Fanners, Fishermen, Hunters, Loggers etc. and Related workers",N,11-2019
+,,,25,14/02/2019,12/02/2019,M,75 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,26,11/02/2019,01/10/2018,M,42 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers",N,11-2019
+,,,27,14/02/2019,07/02/2019,M,42 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,28,28/02/2019,13/02/2019,F,35 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,29,28/02/2019,21/02/2019,F,89 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,30,28/02/2019,21/02/2019,M,68 Year,House,Hindu,Sales Workers,N,#VALUE!
+,,,31,28/02/2019,22/02/2019,F,95 Year,House,Muslim,Non- workers,N,#VALUE!
+,,,32,28/02/2019,28/02/2019,F,48 Year,House,Muslim,Non- workers,N,#VALUE!
+,,,33,11/03/2019,02/03/2019,M,82 Year,House,Hindu,Non- workers,N,11-2019
+,,,34,11/03/2019,04/03/2019,M,68 Year,House,Hindu,Non- workers,N,11-2019
+,,,35,11/03/2019,07/03/2019,M,50 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,11-2019
+,,,36,11/03/2019,08/03/2019,F,62 Year,House,Hindu,Non- workers,N,11-2019
+,,,37,11/03/2019,10/03/2019,F,48 Year,House,Hindu,Non- workers,N,11-2019
+,,,38,11/03/2019,06/03/2019,M,45 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,11-2019
+,,,39,11/03/2019,10/03/2019,F,61 Year,House,Hindu,Non- workers,N,11-2019
+,,,40,13/03/2019,12/03/2019,F,26 Year,House,Muslim,Non- workers,N,#VALUE!
+,,,41,16/03/2019,13/03/2019,M,61 Year,House,Muslim,Non- workers,N,#VALUE!
+,,,42,16/03/2019,14/03/2019,M,88 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,43,16/03/2019,15/03/2019,M,48 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,44,16/03/2019,10/03/2019,M,86 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,45,16/03/2019,12/03/2019,F,62 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,46,16/03/2019,14/03/2019,M,45 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,47,30/03/2019,21/03/2019,F,52 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,48,30/03/2019,24/03/2019,M,45 Year,House,Hindu,Service Workers,N,#VALUE!
+,,,49,30/03/2019,27/03/2019,F,65 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,50,30/03/2019,30/03/2019,F,85 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,51,30/03/2019,27/03/2019,F,48 Year,CHC Anklav,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related",N,#VALUE!
+,,,52,03/04/2019,02/04/2019,M,40 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,3-2019
+,,,53,03/04/2019,17/03/2019,M,85 Year,House,Hindu,Non- workers,N,3-2019
+,,,54,08/04/2019,05/04/2019,M,54 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,8-2019
+,,,55,08/04/2019,30/03/2019,F,70 Year,House,Hindu,Non- workers,N,8-2019
+,,,56,08/04/2019,04/04/2019,F,72 Year,House,Hindu,Non- workers,N,8-2019
+,,,57,08/04/2019,15/09/2018,M,21 Year,House,Hindu,Non- workers,N,8-2019
+,,,58,08/04/2019,07/04/2019,M :,63 Year,House,Hindu,Non- workers,N,8-2019
+,,,59,12/04/2019,08/04/2019,M,93 Year,House,Hindu,Non- workers,N,12-2019
+,,,60,12/04/2019,11/04/2019,F,58 Year,House,Muslim,Non- workers,N,12-2019
+,,,61,15/04/2019,13/04/2019,F,90 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,62,15/04/2019,12/04/2019,M,70 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,63,15/04/2019,15/04/2019,F,80 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,64,20/04/2019,17/04/2019,F,38 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,65,20/04/2019,18/04/2019,M,55 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,66,20/04/2019,19/04/2019,M,78 Year,House,Muslim,Non- workers,N,#VALUE!
+,,,67,20/04/2019,19/04/2019,M,58 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,68,25/04/2019,23/04/2019,M,70 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,69,25/04/2019,23/04/2019,F,75 Year,House,Muslim,Non- workers,N,#VALUE!
+,,,70,30/04/2019,25/04/2019,M,47 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,71,30/04/2019,27/04/2019,M,65 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,72,06/05/2019,03/05/2019,M,67 Year,House,Hindu,Non- workers,N,6-2019
+,,,73,06/05/2019,13/04/2019,M,59 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,6-2019
+,,,74,06/05/2019,03/05/2019,F,95 Year,House,Hindu,Non- workers,N,6-2019
+,,,75,06/05/2019,04/05/2019,F,92 Year,House,Hindu,Non- workers,N,6-2019
+,,,76,08/05/2019,06/05/2019,M,80 Yea',House,Hindu,Non- workers,N,8-2019
+,,,77,13/05/2019,11/05/2019,M,37 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,78,06/05/2019,05/05/2019,F,68 Year,House,Hindu,Non- workers,N,6-2019
+,,,79,13/05/2019,08/05/2019,M,62 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,80,13/05/2019,09/05/2019,F,65 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,81,20/05/2019,18/05/2019,F,100 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,82,20/05/2019,18/05/2019,M,80 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,83,20/05/2019,19/05/2019,M,65 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,84,20/05/2019,20/05/2019,M,50 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,85,27/05/2019,22/05/2019,M,70 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,86,27/05/2019,22/05/2019,M,45 Year,House,Muslim,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,87,27/05/2019,23/05/2019,M,65 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,88,27/05/2019,26/05/2019,F,94 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,89,27/05/2019,22/05/2019,M,69 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,90,27/05/2019,26/05/2019,M,79 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,91,31/05/2019,30/05/2019,F,35 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,92,05/06/2019,03/06/2019,M,56 Year,House,Hindu,Non- workers,N,5-2019
+,,,93,05/06/2019,03/06/2019,M,38 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,5-2019
+,,,94,05/06/2019,04/06/2019,M,72 Year,House,Hindu,Non- workers,N,5-2019
+,,,95,14/06/2019,10/06/2019,F,79 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,96,14/06/2019,13/06/2019,M,48 Year,House,Muslim,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,97,14/06/2019,12/06/2019,F,58 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,98,21/06/2019,15/06/2019,F,98 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,99,21/06/2019,16/06/2019,M,72 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,100,21/06/2019,21/06/2019,M,90 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,101,30/06/2019,27/06/2019,M,65 Year,House,Muslim,Non- workers,N,#VALUE!
+,,,102,30/06/2019,29/06/2019,F,70 Year,House,Muslim,Non- workers,N,#VALUE!
+,,,103,30/06/2019,30/06/2019,M,55 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,104,01/07/2019,19/06/2019,M,28 Year,CHC Anklav,Hindu,Sales Workers,N,1-2019
+,,,105,01/07/2019,24/06/2019,F,48 Year,House,Hindu,Non- workers,N,1-2019
+,,,106,10/07/2019,04/07/2019,M,56 Year,House,Muslim,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,10-2019
+,,,107,10/07/2019,07/07/2019,M,43 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,10-2019
+,,,108,10/07/2019,04/07/2019,M,44 Year,Other Place,Hindu,Service Workers,N,10-2019
+,,,109,12/07/2019,11/07/2019,F,34 Year,Shree Hospital,Hindu,Non- workers,N,12-2019
+,,,110,12/07/2019,06/07/2019,F,65 Year,House,Hindu,Non- workers,N,12-2019
+,,,111,12/07/2019,07/07/2019,M,73 Year,House,Muslim,Non- workers,N,12-2019
+,,,112,24/07/2019,19/07/2019,M,55 Year,House,Hindu,"Fanners, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,113,24/07/2019,23/07/2019,M,64 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,114,24/07/2019,23/07/2019,M,48 Year,House,Hindu,"Fanners, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,115,24/07/2019,23/07/2019,M,42 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,116,30/07/2019,24/07/2019,M,75 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,117,30/07/2019,30/07/2019,M,65 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,118,30/07/2019,27/07/2019,M,70 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,119,01/08/2019,15/07/2019,F,100 Year,House,Hindu,Non- workers,N,1-2019
+,,,120,05/08/2019,02/08/2019,F,80 Year,House,Hindu,Non- workers,N,5-2019
+,,,121,05/08/2019,04/08/2019,M,73 Year,House,Hindu,Non- workers,N,5-2019
+,,,122,13/08/2019,08/08/2019,F,85 Year,House,Muslim,Non- workers,N,#VALUE!
+,,,123,13/08/2019,01/08/2019,F,55 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,124,23/08/2019,13/08/2019,M,57 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,125,23/08/2019,17/08/2019,F,75 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,126,23/08/2019,22/08/2019,M,64 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,127,25/08/2019,24/08/2019,M,51 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,128,26/08/2019,21/08/2019,M,65 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,129,31/08/2019,28/08/2019,M,64 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,130,11/09/2019,09/09/2019,F,75 Year,House,Hindu,Non- workers,N,11-2019
+,,,131,11/09/2019,02/09/2019,F,70 Year,House,Hindu,Non- workers,N,11-2019
+,,,132,11/09/2019,07/09/2019,F,55 Year,House,Hindu,Non- workers,N,11-2019
+,,,133,11/09/2019,08/09/2019,F,92 Year,House,Hindu,Non- workers,N,11-2019
+,,,134,11/09/2019,08/09/2019,F,80 Year,House,Hindu,Non- workers,N,11-2019
+,,,135,11/09/2019,09/09/2019,M,52 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,11-2019
+,,,136,11/09/2019,10/09/2019,M,59 Year,House,Hindu,Non- workers,N,11-2019
+,,,137,16/09/2019,15/09/2019,F,92 Year,House,Christian,Non- workers,N,#VALUE!
+,,,138,16/09/2019,04/09/2019,M,12 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,139,21/09/2019,17/09/2019,F,75 Year,House,Muslim,Non-,N,#VALUE!
+,,,140,01/10/2019,28/09/2019,M,58 Year,House,Hindu,"Fanners, Fishermen, Hunters, Loggers etc. and Related workers",N,1-2019
+,,,141,01/10/2019,21/09/2019,M,40 Year,House,Muslim,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,1-2019
+,,,142,07/10/2019,02/10/2019,M,70 Year,House,Hindu,Non- workers,N,7-2019
+,,,143,07/10/2019,03/10/2019,F,60 Year,House,Hindu,Non- workers,N,7-2019
+,,,144,07/10/2019,18/09/2019,F,35 Year,House,Hindu,Non- workers,N,7-2019
+,,,145,11/10/2019,09/10/2019,M,52 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and",N,11-2019
+,,,146,11/10/2019,09/10/2019,M,35 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,11-2019
+,,,147,11/10/2019,10/10/2019,F,68 Year,House,Hindu,Non- workers,N,11-2019
+,,,148,18/10/2019,14/10/2019,M,54 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,149,18/10/2019,14/10/2019,F,77 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,150,18/10/2019,14/10/2019,M,49 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,151,18/10/2019,17/10/2019,F,65 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,152,18/10/2019,17/10/2019,M,10 Days,House,Hindu,Non- workers,N,#VALUE!
+,,,153,31/10/2019,21/10/2019,M,66 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,154,31/10/2019,23/10/2019,F,77 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,155,31/10/2019,25/10/2019,F,75 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,156,31/10/2019,25/10/2019,M,69 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,157,31/10/2019,26/10/2019,F,78 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,158,31/10/2019,30/10/2019,F,50 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,159,31/10/2019,31/10/2019,M,58 Year,House,Hindu,Sales Workers,N,#VALUE!
+,,,160,31/10/2019,31/10/2019,F,40 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,161,31/10/2019,31/10/2019,F,34 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,162,06/11/2019,01/11/2019,M,40 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,6-2019
+,,,163,06/11/2019,05/11/2019,M,40 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,6-2019
+,,,164,06/11/2019,16/10/2019,M,33 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,6-2019
+,,,165,06/11/2019,09/10/2019,M,40 Year,CHC Anklav,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",Y,6-2019
+,,,166,06/11/2019,06/11/2019,M,98 Year,House,Hindu,Non- workers,N,6-2019
+,,,167,06/11/2019,06/11/2019,M,45 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,6-2019
+,,,168,11/11/2019,08/11/2019,M,90 Year,House,Hindu,Non- workers,N,11-2019
+,,,169,11/11/2019,24/10/2019,M,72 Year,House,Hindu,Non- workers,N,11-2019
+,,,170,09/12/2019,30/11/2019,M,98 Year,House,Hindu,Non- workers,N,9-2019
+,,,171,09/12/2019,03/12/2019,M,80 Year,House,Hindu,Non- workers,N,9-2019
+,,,172,09/12/2019,04/12/2019,M,61 Year,House,Muslim,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,9-2019
+,,,173,09/12/2019,05/12/2019,M,47 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,9-2019
+,,,174,09/12/2019,07/12/2019,M,36 Year,House,Hindu,Non- workers,N,9-2019
+,,,175,17/12/2019,11/12/2019,M,24 Year,House,Hindu,"Farmers, Fishermen, Hunters,",N,#VALUE!
+,,,176,17/12/2019,12/12/2019,M,65 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,177,17/12/2019,16/12/2019,M,50 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,178,17/12/2019,16/12/2019,M,49 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,179,19/12/2019,18/12/2019,M,29 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,180,19/12/2019,19/12/2019,M,75 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,181,19/12/2019,16/12/2019,F,85 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,182,19/12/2019,17/12/2019,F,95 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,183,26/12/2019,20/12/2019,M,75 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,184,26/12/2019,21/12/2019,F,72 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,185,26/12/2019,21/12/2019,M,79 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,186,26/12/2019,24/12/2019,M,65 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,187,26/12/2019,24/12/2019,F,80 Year,House,Muslim,Non- workers,N,#VALUE!
+,,,188,26/12/2019,26/12/2019,M,60 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,189,31/12/2019,30/12/2019,M,87 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,1,04/01/2020,31/12/2019,M,76 Year,House,Hindu,Sales Workers,N,4-2020
+,,,2,04/01/2020,01/01/2020,M,77 Year,House,Hindu,Non- workers,N,4-2020
+,,,3,04/01/2020,03/01/2020,M,76 Year,House,Hindu,Non- workers,N,4-2020
+,,,4,04/01/2020,20/12/2019,F,76 Year,House,Hindu,Non- workers,N,4-2020
+,,,5,20/01/2020,12/01/2020,F,67 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,6,20/01/2020,15/01/2020,F,75 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,7,20/01/2020,17/01/2020,M,70 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,8,20/01/2020,19/01/2020,F,64 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,9,20/01/2020,14/01/2020,M,84 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,10,23/01/2020,18/01/2020,M,30 Year,House,Hindu,Service Workers,N,#VALUE!
+,,,11,23/01/2020,21/01/2020,M,81 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,12,23/01/2020,22/01/2020,M,72 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,13,23/01/2020,18/01/2020,F,75 Year,Krishna Hospital Anklav,Hindu,Non- workers,Y,#VALUE!
+,,,14,31/01/2020,27/01/2020,M,52 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,15,31/01/2020,27/01/2020,M,84 Year,House,Muslim,Non- workers,N,#VALUE!
+,,,16,31/01/2020,28/01/2020,M,72 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,17,05/02/2020,03/02/2020,F,85 Year,House,Muslim,Non- workers,N,5-2020
+,,,18,05/02/2020,04/02/2020,F,90 Year,House,Hindu,Non- workers,N,5-2020
+,,,19,05/02/2020,05/02/2020,M,58 Year,House,Hindu,Non- workers,N,5-2020
+,,,20,05/02/2020,31/01/2020,F,68 Year,House,Hindu,Non- workers,N,5-2020
+,,,21,10/02/2020,05/02/2020,M,64 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,10-2020
+,,,22,10/02/2020,07/02/2020,F,88 Year,House,Hindu,Non- workers,N,10-2020
+,,,23,10/02/2020,07/02/2020,M,45 Year,House,Hindu,"Farmers, Fishermen, Hunters. Loggers etc. and Related workers",N,10-2020
+,,,24,10/02/2020,08/02/2020,F,80 Year,House,Hindu,Non- workers,N,10-2020
+,,,25,10/02/2020,08/02/2020,F,82 Year,House,Hindu,Non- workers,N,10-2020
+,,,26,13/02/2020,11/02/2020,M,61 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,27,13/02/2020,12/02/2020,M,75 Year,House,Muslim,Non- workers,N,#VALUE!
+,,,28,13/02/2020,28/01/2020,M,76 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,29,13/02/2020,09/02/2020,M,65 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,30,24/02/2020,15/02/2020,F,86 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,31,24/02/2020,18/02/2020,M,65 Year,House,Muslim,Non- workers,N,#VALUE!
+,,,32,24/02/2020,22/02/2020,M,81 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,33,24/02/2020,22/02/2020,F,77 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,34,24/02/2020,23/02/2020,M,33 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and",N,#VALUE!
+,,,35,24/02/2020,24/02/2020,F,67 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,36,24/02/2020,14/02/2020,M,11 Year,House,Muslim,Non- workers,N,#VALUE!
+,,,37,29/02/2020,25/02/2020,F,82 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,38,01/03/2020,13/02/2020,F,70 Year,House,Hindu,Non- workers,N,1-2020
+,,,39,01/03/2020,29/02/2020,F,22 Year,House,Hindu,Non- workers,N,1-2020
+,,,40,11/03/2020,06/03/2020,F,65 Year,House,Muslim,Non- workers,N,11-2020
+,,,41,11/03/2020,08/03/2020,F,80 Year,House,Hindu,Non- workers,N,11-2020
+,,,42,11/03/2020,10/03/2020,F,8 Year,House,Muslim,Non- workers,N,11-2020
+,,,43,16/03/2020,11/03/2020,F,11 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,44,16/03/2020,13/03/2020,M,90 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,45,16/03/2020,13/03/2020,M,67 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,46,16/03/2020,13/03/2020,F,47 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,47,18/03/2020,15/03/2020,M,23 Year,House,Hindu,Service Workers,N,#VALUE!
+,,,48,18/03/2020,16/03/2020,M,35 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,49,18/03/2020,16/03/2020,M,65 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,50,18/03/2020,17/03/2020,F,82 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,51,31/03/2020,19/03/2020,F,15 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,52,31/03/2020,24/03/2020,M,74 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,53,16/04/2020,03/04/2020,F,65 Year,House,Muslim,Non- workers,N,#VALUE!
+,,,54,16/04/2020,04/04/2020,F,85 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,55,16/04/2020,05/04/2020,F,33 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,56,16/04/2020,12/04/2020,M,65 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,57,16/04/2020,12/04/2020,F,86 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,58,16/04/2020,13/04/2020,F,62 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,59,16/04/2020,11/04/2020,M,43 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and",N,#VALUE!
+,,,60,16/04/2020,15/04/2020,M,46 Year,House,Hindu,Sales Workers,N,#VALUE!
+,,,61,01/05/2020,19/04/2020,M,60 Year,House,Hindu,Non- workers,N,1-2020
+,,,62,01/05/2020,24/04/2020,M,46 Year,House,Hindu,Sales Workers,N,1-2020
+,,,63,01/05/2020,29/04/2020,M,38 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,1-2020
+,,,64,01/05/2020,22/04/2020,F,85 Year,House,Hindu,Non- workers,N,1-2020
+,,,65,11/05/2020,04/05/2020,F,78 Year,House,Hindu,Non- workers,N,11-2020
+,,,66,11/05/2020,06/05/2020,M,51 Year,House,Hindu,"Farmers, Fishermen, Hunters,",N,11-2020
+,,,67,11/05/2020,06/05/2020,F,71 Year,House,Hindu,Non- workers,N,11-2020
+,,,68,26/05/2020,16/05/2020,M,90 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,69,26/05/2020,17/05/2020,M,67 Year,House,Muslim,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,70,26/05/2020,19/05/2020,M,85 Year,House,Muslim,Non- workers,N,#VALUE!
+,,,71,26/05/2020,21/05/2020,F,72 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,72,26/05/2020,24/05/2020,M,27 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,73,26/05/2020,25/05/2020,M,27 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,74,26/05/2020,19/05/2020,F,82 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,75,30/05/2020,27/05/2020,F,60 Year,House,Muslim .,Non- workers,N,#VALUE!
+,,,76,01/06/2020,27/05/2020,M,31 Year,House,Muslim,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,1-2020
+,,,77,01/06/2020,28/05/2020,F,81 Year,House,Hindu,Non- workers,N,1-2020
+,,,78,08/06/2020,05/06/2020,F,79 Year,House,Hindu,Non- workers,N,8-2020
+,,,79,08/06/2020,06/06/2020,M,70 Year,House,Hindu,Non- workers,N,8-2020
+,,,80,10/06/2020,03/04/2020,M,37 Year,House,Muslim,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,10-2020
+,,,81,10/06/2020,13/03/2020,M,60 Year,Other Place,Hindu,"Farmers, Fishermen, Hunters, Loggers",N,10-2020
+,,,82,10/06/2020,09/06/2020,F,60 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,10-2020
+,,,83,19/06/2020,11/06/2020,M,80 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,84,19/06/2020,16/06/2020,M,72 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,85,19/06/2020,14/06/2020,M,58 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,86,19/06/2020,16/06/2020,M,63 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,87,22/06/2020,19/06/2020,M,51 Year,House,Muslim,Sales Workers,N,#VALUE!
+,,,88,22/06/2020,19/06/2020,M,21 Year,House,Hindu,Sales Workers,N,#VALUE!
+,,,89,22/06/2020,09/04/2020,M,60 Year,House,Muslim,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,90,22/06/2020,18/06/2020,F,90 Year,House,Muslim,Non- workers,N,#VALUE!
+,,,91,30/06/2020,28/06/2020,M,65 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,92,20/07/2020,01/07/2020,M,65 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,93,20/07/2020,02/07/2020,M,48 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,94,20/07/2020,03/07/2020,F,94 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,95,20/07/2020,14/07/2020,M,55 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,96,20/07/2020,17/07/2020,F,30 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,97,20/07/2020,18/07/2020,F,18 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,98,20/07/2020,02/07/2020,M,45 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,99,20/07/2020,09/07/2020,F,60 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,100,20/07/2020,14/07/2020,M,48 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,101,20/07/2020,15/07/2020,M,55 Year,House,Hindu,Non- workere,N,#VALUE!
+,,,102,20/07/2020,18/07/2020,F,72 Year,House,Muslim,Non- workers,N,#VALUE!
+,,,103,20/07/2020,19/07/2020,F,29 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,104,22/07/2020,20/07/2020,F,60 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,105,22/07/2020,21/07/2020,M,58 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,106,22/07/2020,09/07/2020,M,55 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,107,31/07/2020,16/07/2020,M,33 Year,House,Hindu,Service Workers,N,#VALUE!
+,,,108,31/07/2020,29/07/2020,M,65 Year,House,Muslim,Non- workers,N,#VALUE!
+,,,109,31/07/2020,23/07/2020,F,70 Year,House,Muslim,Non- workers,N,#VALUE!
+,,,110,31/07/2020,29/07/2020,F,70 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,111,31/07/2020,23/07/2020,M,45 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,112,31/07/2020,30/07/2020,M,53 Year,House,Muslim,Non- workers,N,#VALUE!
+,,,113,05/08/2020,31/07/2020,M,65 Year,House,Hindu,Non- workers,N,5-2020
+,,,114,13/08/2020,10/08/2020,F,70 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,115,13/08/2020,27/07/2020,M,74 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,116,13/08/2020,27/07/2020,M,75 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,117,13/08/2020,03/08/2020,F,72 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,118,13/08/2020,08/08/2020,F,45 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,119,13/08/2020,09/08/2020,M,43 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,120,13/08/2020,06/08/2020,F,52 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,121,13/08/2020,11/08/2020,F,82 Year,House,Muslim,Non- workers,N,#VALUE!
+,,,122,24/08/2020,14/08/2020,M,77 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,123,24/08/2020,15/08/2020,M,72 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,124,24/08/2020,15/08/2020,M,97 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,125,24/08/2020,17/08/2020,M,49 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,126,24/08/2020,24/08/2020,F,85 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,127,28/08/2020,26/08/2020,M,49 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,128,28/08/2020,26/08/2020,M,85 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,129,01/09/2020,29/08/2020,F,95 Year,House,Hindu,Non- workers,N,1-2020
+,,,130,01/09/2020,30/08/2020,M,69 Year,House,Hindu,Non- workers,N,1-2020
+,,,131,01/09/2020,30/08/2020,M,65 Year,House,Muslim,Non- workers,N,1-2020
+,,,132,07/09/2020,03/09/2020,M,60 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,7-2020
+,,,133,07/09/2020,05/09/2020,M,52 Year,House,Hindu,Non- workers,N,7-2020
+,,,134,07/09/2020,05/09/2020,M,57 Year,House,Muslim,Service Workers,N,7-2020
+,,,135,07/09/2020,07/09/2020,F,76 Year,House,Hindu,Non- workers,N,7-2020
+,,,136,07/09/2020,28/07/2020,F,33 Year,"Shree Hospital, Anklav",Hindu,Non- workers,Y,7-2020
+,,,137,10/09/2020,07/09/2020,M,34 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,10-2020
+,,,138,10/09/2020,09/09/2020,M,65 Year,House,Muslim,Sales Workers,N,10-2020
+,,,139,11/09/2020,10/09/2020,M,52 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,11-2020
+,,,140,11/09/2020,08/09/2020,M,37 Year,CHC Anklav,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,11-2020
+,,,141,16/09/2020,15/09/2020,M,80 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,142,16/09/2020,04/09/2020,F,77 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,143,24/09/2020,21/09/2020,M,60 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,144,24/09/2020,24/09/2020,M,48 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related",N,#VALUE!
+,,,145,24/09/2020,24/09/2020,M,95 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,146,24/09/2020,11/09/2020,M,1 Year,House,Muslim,Non- workers,N,#VALUE!
+,,,147,24/09/2020,28/08/2020,M,68 Year,House,Hindu,Sales Workers,N,#VALUE!
+,,,148,12/10/2020,02/10/2020,M,47 Year,House,Muslim,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,12-2020
+,,,149,12/10/2020,09/10/2020,F,80 Year,House,Hindu,Non- workers,N,12-2020
+,,,150,12/10/2020,10/10/2020,M,61 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,12-2020
+,,,151,19/10/2020,17/10/2020,M,65 Year,House,Muslim,Non- workers,N,#VALUE!
+,,,152,22/10/2020,20/10/2020,F,77 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,153,22/10/2020,21/10/2020,M,82 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,154,22/10/2020,21/10/2020,M,53 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,155,22/10/2020,04/07/2020,F,74 Year,House,Muslim,Non- workers,N,#VALUE!
+,,,156,22/10/2020,10/10/2020,M,68 Year,House,Hindu,Sales Workers,N,#VALUE!
+,,,157,29/10/2020,24/10/2020,F,71 Year,House,Muslim,Non- workers,N,#VALUE!
+,,,158,29/10/2020,28/10/2020,M,72 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,159,09/11/2020,11/01/2020,F,102 Year,House,Hindu,Non- workers,N,9-2020
+,,,160,09/11/2020,02/11/2020,M,81 Year,House,Muslim,Non- workers,N,9-2020
+,,,161,09/11/2020,05/02/1966,M,52 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,9-2020
+,,,162,09/11/2020,27/05/1987,F,65 Year,House,Hindu,Non- workers,N,9-2020
+,,,163,09/11/2020,05/08/2020,M,28 Year,Krishna Hospital Anklav,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,9-2020
+,,,164,09/11/2020,01/11/2020,M,46 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,9-2020
+,,,165,09/11/2020,02/11/2020,F,65 Year,House,Hindu,Non- workers,N,9-2020
+,,,166,09/11/2020,06/11/2020,F,41 Year,House,Hindu,Non- workers,N,9-2020
+,,,167,09/11/2020,07/11/2020,M,70 Year,House,Hindu,Non- workers,N,9-2020
+,,,168,09/11/2020,09/11/2020,M,52 Year,House,Hindu,Sales Workers,N,9-2020
+,,,169,17/11/2020,11/11/2020,M,68 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,170,17/11/2020,12/11/2020,M,83 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,171,17/11/2020,15/11/2020,M,34 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,172,23/11/2020,21/11/2020,M,45 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,173,30/11/2020,24/11/2020,M,85 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,174,30/11/2020,17/11/2020,M,64 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,175,30/11/2020,18/11/2020,F,63 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,176,30/11/2020,22/11/2020,M,77 Year,House,Muslim,Non- workers,N,#VALUE!
+,,,177,30/11/2020,30/11/2020,F,63 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,178,01/12/2020,11/11/2020,M,85 Year,House,Hindu,Non- workers,N,1-2020
+,,,179,01/12/2020,15/11/2020,M,66 Year,House,Muslim,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,1-2020
+,,,180,01/12/2020,15/11/2020,M,16 Year,House,Hindu,Non- workers,N,1-2020
+,,,181,21/12/2020,02/12/2020,F,73 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,182,21/12/2020,03/12/2020,F,67 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,183,21/12/2020,07/12/2020,F,95 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,184,21/12/2020,08/12/2020,F,72 Year,House,Muslim,Non- workers,N,#VALUE!
+,,,185,21/12/2020,09/12/2020,M,46 Year,House,Hindu,Sales Workers,N,#VALUE!
+,,,186,21/12/2020,11/12/2020,M,41 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,187,21/12/2020,12/12/2020,M,52 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,188,21/12/2020,12/12/2020,F,80 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,189,21/12/2020,16/12/2020,F,72 Year,House,Muslim,Non- workers,N,#VALUE!
+,,,190,21/12/2020,20/12/2020,F,62 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,191,21/12/2020,09/12/2020,F,69 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,192,21/12/2020,20/12/2020,F,45 Year,House,Muslim,Non- workers,N,#VALUE!
+,,,193,28/12/2020,27/12/2020,M,54 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,194,31/12/2020,28/12/2020,F,18 Year,House,Muslim,Non- workers,N,#VALUE!
+,,,195,31/12/2020,28/12/2020,M,36 Year,House,Hindu,Service Workers,N,#VALUE!
+,,,196,31/12/2020,23/12/2020,F,57 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,1,08/01/2021,02/01/2021,M,40 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,8-2021
+,,,2,08/01/2021,03/01/2021,M,60 Year,House,Hindu,Non- workers,N,8-2021
+,,,3,08/01/2021,05/01/2021,F,23 Year,House,Muslim,Non- workers,N,8-2021
+,,,4,08/01/2021,06/01/2021,M,57 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,8-2021
+,,,5,12/01/2021,11/01/2021,M,69 Year,House,Hindu,Non- workers,N,12-2021
+,,,6,13/01/2021,10/01/2021,F,82 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,7,19/01/2021,11/01/2021,M,55 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,8,19/01/2021,16/01/2021,M,59 Year,House,Hindu,Sales Workers,N,#VALUE!
+,,,9,20/01/2021,15/01/2021,F,98 Year,House,Muslim,Non- workers,N,#VALUE!
+,,,10,20/01/2021,18/01/2021,M,87 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,11,22/01/2021,29/12/2020,F,39 Year,Other Place,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,12,25/01/2021,06/01/2021,F,78 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,13,28/01/2021,23/01/2021,M,75 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,14,30/01/2021,14/01/2021,F,65 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,15,30/01/2021,27/01/2021,F,75 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,16,30/01/2021,26/01/2021,F,74 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,17,02/02/2021,26/01/2021,F,78 Year,House,Hindu,Non- workers,N,2-2021
+,,,18,02/02/2021,29/01/2021,M,60 Year,House,Hindu,Non- workers,N,2-2021
+,,,19,06/02/2021,30/01/2021,F,79 Year,House,Muslim,Non- workers,N,6-2021
+,,,20,06/02/2021,01/02/2021,M,78 Year,House,Muslim,Non- workers,N,6-2021
+,,,21,06/02/2021,01/02/2021,F,65 Year,House,Hindu,Non- workers,N,6-2021
+,,,22,18/02/2021,11/02/2021,M,53 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,23,18/02/2021,11/02/2021,F,41 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,24,18/02/2021,13/02/2021,F,82 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,25,19/02/2021,16/02/2021,M,65 Year,House,Muslim,Non- workers,N,#VALUE!
+,,,26,19/02/2021,30/01/2021,M,65 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,27,23/02/2021,31/01/2021,M,65 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,28,23/02/2021,12/02/2021,M,71 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,29,23/02/2021,20/02/2021,M,70 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,30,03/03/2021,20/02/2021,F,73 Year,House,Hindu,Non- workers,N,3-2021
+,,,31,03/03/2021,28/02/2021,F,74 Year,House,Hindu,Non- workers,N,3-2021
+,,,32,10/03/2021,23/0272021,F,79 Year,House,Hindu,Non- workers,N,10-2021
+,,,33,10/03/2021,06/03/2021,F,92 Year,House,Hindu,Non- workers,N,10-2021
+,,,34,10/03/2021,08/03/2021,M,88 Year,House,Hindu,Non- workers,N,10-2021
+,,,35,12/03/2021,26/02/2021,M,51 Year,Krishna Hospital Anklav,Muslim,Workers whose occupation are not elsewhere classified,Y,12-2021
+,,,36,15/03/2021,04/03/2021,M,47 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,37,15/03/2021,06/03/2021,M,80 Year,House,Muslim,Non- workers,N,#VALUE!
+,,,38,15/03/2021,08/03/2021,F,78 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,39,16/03/2021,17/02/2021,F,69 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,40,20/03/2021,10/03/2021,M,50 Year,House,Hindu,Sales Workers,N,#VALUE!
+,,,41,20/03/2021,11/03/2021,M,59 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,42,20/03/2021,13/03/2021,F,84 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,43,20/03/2021,14/03/2021,F,60 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,44,20/03/2021,16/03/2021,M,3 Days,House,Hindu,Not-Stated,N,#VALUE!
+,,,45,20/03/2021,17/03/2021,F,53 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,46,20/03/2021,12/03/2021,F,82 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,47,22/03/2021,02/03/2021,M,33 Year,CHC Anklav,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,48,26/03/2021,20/10/2020,F,74 Year,CHC Anklav,Hindu,Non- workers,N,#VALUE!
+,,,49,30/03/2021,20/03/2021,M,56 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,50,31/03/2021,23/03/2021,M,69 Year,House,Muslim,Non- workers,N,#VALUE!
+,,,51,31/03/2021,24/03/2021,F,75 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,52,31/03/2021,24/03/2021,F,74 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,53,31/03/2021,24/03/2021,M,74 Year,House,Muslim,Non- workers,N,#VALUE!
+,,,54,31/03/2021,25/03/2021,F,78 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,55,31/03/2021,28/03/2021,F,85 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,56,31/03/2021,24/03/2021,F,54 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,57,03/04/2021,29/03/2021,M,56 Year,House,Hindu,"Farmers. Fishermen. Hunters, Loggers etc. and Related workers",N,3-2021
+,,,58,03/04/2021,30/03/2021,M,31 Year,House,Hindu,"Farmers, Fishermen. Hunters, Loggers etc. and Related workers",N,3-2021
+,,,59,03/04/2021,01/04/2021,F,78 Year,House,Hindu,Not-Stated,N,3-2021
+,,,60,03/04/2021,02/04/2021,M,39 Year,House,Hindu,Service Workers,N,3-2021
+,,,61,07/04/2021,25/03/2021,F,82 Year,House,Hindu,Non- workers,N,7-2021
+,,,62,07/04/2021,03/04/2021,M,80 Year,House,Hindu,Non- workers,N,7-2021
+,,,63,16/04/2021,21/03/2021,,35 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,64,16/04/2021,01/04/2021,F,19 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,65,16/04/2021,04/04/2021,M,62 Year,House,Hindu,"Farmers, Fishermen. Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,66,16/04/2021,05/04/2021,M,8 Month,House,Hindu,Non- workers,N,#VALUE!
+,,,67,16/04/2021,07/04/2021,M,70 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,#VALUE!
+,,,68,16/04/2021,09/04/2021,M,74 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,69,16/04/2021,13/04/2021,M,58 Year,House,Hindu,Sales Workers,N,#VALUE!
+,,,70,16/04/2021,14/04/2021,M,52 Year,House,Muslim,Sales Workers,N,#VALUE!
+,,,71,20/04/2021,12/04/2021,F,76 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,72,20/04/2021,16/04/2021,F,74 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,73,20/04/2021,16/04/2021,F,69 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,74,20/04/2021,19/04/2021,F,84 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,75,22/04/2021,31/03/2021,M,38 Year,House,Hindu,Sales Workers,N,#VALUE!
+,,,76,22/04/2021,27/03/2021,F,73 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,77,29/04/2021,20/04/2021,F,80 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,78,29/04/2021,21/04/2021,M,53 Year,House,Muslim,Non- workers,N,#VALUE!
+,,,79,29/04/2021,27/04/2021,F,73 Year,House,Hindu,Non- workers,N,#VALUE!
+,,,80,29/04/2021,27/04/2021,M,80 Year,House,Hindu,Sales Workers,N,#VALUE!
+,,,81,03/05/2021,14/04/2021,M,24 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,3-2021
+,,,82,03/05/2021,25/04/2021,M,46 Year,House,Muslim,Sales Workers,N t,3-2021
+,,,83,03/05/2021,29/04/2021,M,83 Year,House,Hindu,Non- workers,N,3-2021
+,,,84,03/05/2021,30/04/2021,M,48 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,3-2021
+,,,85,03/05/2021,30/04/2021,F,100 Year,House,Muslim,Non- workers,N,3-2021
+,,,86,03/05/2021,30/04/2021,M,75 Year,House,Muslim,Sales Workers,N,3-2021
+,,,87,03/05/2021,01/05/2021,M,75 Year,House,Hindu,"Farmers, Fishermen, Hunters,",N,3-2021
+,,,88,06/05/2021,23/04/2021,F,43 Year,House,Hindu,Non- workers,N,6-2021
+,,,89,06/05/2021,02/05/2021,M,68 Year,House,Hindu,Non- workers,N,6-2021
+,,,90,06/05/2021,04/05/2021,F,68 Year,House,Muslim,Non- workers,N,6-2021
+,,,91,10/05/2021,20/04/2021,M,52 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,10-2021
+,,,92,10/05/2021,25/04/2021,F,39 Year,House,Muslim,Non- workers,N,10-2021
+,,,93,12/05/2021,29/04/2021,M,36 Year,House,Hindu,"Farmers, Fishermen, Hunters, Loggers etc. and Related workers",N,12-2021
+,,,94,12/05/2021,07/05/2021,F,81 Year,House,Hindu,Non- workers,N,12-2021
+,,,95,12/05/2021,07/05/2021,F,62 Year,House,Hindu,Non- workers,N,12-2021
+,,,96,12/05/2021,08/05/2021,F,71 Year,House,Hindu,Non- workers,N,12-2021
+,,,97,12/05/2021,08/05/2021,M,72 Year,House,Muslim,Non- workers,N,12-2021
+,,,98,12/05/2021,08/05/2021,F,68 Year,House,Hindu,Non- workers,N,12-2021
+,,,99,17/05/2021,05/05/2021,M,81 Year,House,Hindu,Non- workers,N,#VALUE!

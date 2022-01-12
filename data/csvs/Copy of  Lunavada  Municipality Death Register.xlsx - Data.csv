@@ -1,0 +1,886 @@
+District,Tahesil,Village,Reg. No.,Reg. Date,Death Date,Gender,Age,Death Place,Region,Occupation,The cause of death has been medically confirmed Y/N,MONTH/YEAR
+Mahisagar,Lunavada,Lunavada,1,03/01/2019,01/01/2019,M,53,Lunavada,HINDU,Vepar,,1-2019
+Mahisagar,Lunavada,Lunavada,2,03/01/2019,30/12/2018,M,73,Lunavada,HINDU,Majur,,1-2019
+Mahisagar,Lunavada,Lunavada,3,05/01/2019,12/12/2018,M,21,Lunavada,HINDU,Majur,,1-2019
+Mahisagar,Lunavada,Lunavada,4,05/01/2019,02/01/2019,M,52,Lunavada,HINDU,Mati Kam,,1-2019
+Mahisagar,Lunavada,Lunavada,5,05/01/2019,30/01/2019,M,68,Nava Karmba,HINDU,Kheti,,1-2019
+Mahisagar,Lunavada,Lunavada,6,05/01/2019,04/01/2019,M,64,Lunavada,HINDU,Nivrut,,1-2019
+Mahisagar,Lunavada,Lunavada,7,07/01/2019,29/12/2019,F,58,Lunavada,MUSLIM,Gharkam,,1-2019
+Mahisagar,Lunavada,Lunavada,8,07/01/2019,01/01/2019,M,85,Lunavada,MUSLIM,Majuri,,1-2019
+Mahisagar,Lunavada,Lunavada,9,07/01/2019,04/01/2019,F,55,Lunavada,MUSLIM,Gharkam,,1-2019
+Mahisagar,Lunavada,Lunavada,10,08/01/2019,02/01/2019,M,88,Lunavada,HINDU,Gharkam,,1-2019
+Mahisagar,Lunavada,Lunavada,11,08/01/2019,02/01/2019,F,53,Lunavada,HINDU,Gharkam,,1-2019
+Mahisagar,Lunavada,Lunavada,12,11/01/2019,05/01/2019,M,,Lunavada,MUSLIM,,,1-2019
+Mahisagar,Lunavada,Lunavada,13,11/01/2019,21/12/2018,M,71,Lunavada,MUSLIM,Nivrut,,1-2019
+Mahisagar,Lunavada,Lunavada,14,11/01/2019,31/01/2018,M,10 Day,Lunavada,MUSLIM,,,1-2019
+Mahisagar,Lunavada,Lunavada,15,11/01/2019,09/01/2019,F,88,Lunavada,MUSLIM,Majuri,,1-2019
+Mahisagar,Lunavada,Lunavada,16,16/01/2019,11/01/2019,F,103,Shardha Hospital,HINDU,Gharkam,,1-2019
+Mahisagar,Lunavada,Lunavada,17,16/01/2019,31/12/2018,F,65,Lunavada,MUSLIM,Nivrut,,1-2019
+Mahisagar,Lunavada,Lunavada,18,16/01/2019,13/01/2019,M,54,Lilavati Hospital,HINDU,S.T. Driver,,1-2019
+Mahisagar,Lunavada,Lunavada,19,17/01/2019,13/01/2019,M,85,Lunavada,MUSLIM,Nivrut,,1-2019
+Mahisagar,Lunavada,Lunavada,20,17/01/2019,16/01/2019,F,75,Lunavada,HINDU,Gharkam,,1-2019
+Mahisagar,Lunavada,Lunavada,21,17/01/2019,14/01/2019,M,62,Lunavada,MUSLIM,Gharkam,,1-2019
+Mahisagar,Lunavada,Lunavada,22,17/01/2019,15/01/2019,F,61,Lunavada,HINDU,Gharkam,,1-2019
+Mahisagar,Lunavada,Lunavada,23,18/01/2019,10/01/2019,F,75,Lunavada,MUSLIM,,,1-2019
+Mahisagar,Lunavada,Lunavada,24,18/01/2019,10/01/2019,M,65,Lunavada,HINDU,Nivrut,,1-2019
+Mahisagar,Lunavada,Lunavada,25,19/01/2019,15/01/2019,M,70,Lunavada,MUSLIM,,,1-2019
+Mahisagar,Lunavada,Lunavada,26,23/01/2019,20/01/2019,F,69,Shardha Hospital,MUSLIM,Gharkam,,1-2019
+Mahisagar,Lunavada,Lunavada,27,24/01/2019,18/01/2019,M,49,Lunavada,MUSLIM,Chutak Vepar,,1-2019
+Mahisagar,Lunavada,Lunavada,28,24/01/2019,20/01/2019,F,50,Lunavada,HINDU,Gharkam,,1-2019
+Mahisagar,Lunavada,Lunavada,29,24/01/2019,27/12/2019,F,89,Lunavada,MUSLIM,,,1-2019
+Mahisagar,Lunavada,Lunavada,30,28/01/2019,23/01/2019,M,66,Lunavada,HINDU,Nivrut,,1-2019
+Mahisagar,Lunavada,Lunavada,31,28/01/2019,25/01/2019,M,55,Lilavati Hospital,HINDU,,,1-2019
+Mahisagar,Lunavada,Lunavada,32,29/01/2019,22/01/2019,F,59,Lunavada,HINDU,Vepar,,1-2019
+Mahisagar,Lunavada,Lunavada,33,30/01/2019,30/01/2019,M,60,Bhakti Hospital,HINDU,Chani Kitli,,1-2019
+Mahisagar,Lunavada,Lunavada,34,30/01/2019,28/01/2019,F,35,Bhakti Hospital,HINDU,Gharkam,,1-2019
+Mahisagar,Lunavada,Lunavada,35,30/01/2019,23/01/2019,F,24,Lunavada,MUSLIM,Nivrut,,1-2019
+Mahisagar,Lunavada,Lunavada,36,31/01/2019,29/01/2019,M,35,Lunavada,HINDU,Vepar,,1-2019
+Mahisagar,Lunavada,Lunavada,37,02/02/2019,30/01/2019,F,71,Shardha Hospital,HINDU,Gharkam,,2-2019
+Mahisagar,Lunavada,Lunavada,38,05/02/2019,02/02/2019,F,72,Lunavada,HINDU,Nivrut,,2-2019
+Mahisagar,Lunavada,Lunavada,39,05/02/2019,02/02/2019,M,77,Lunavada,HINDU,Nivrut,,2-2019
+Mahisagar,Lunavada,Lunavada,40,05/02/2019,26/01/2019,F,65,Lunavada,HINDU,Gharkam,,2-2019
+Mahisagar,Lunavada,Lunavada,41,05/02/2019,10/01/2019,F,70,Lunavada,MUSLIM,Gharkam,,2-2019
+Mahisagar,Lunavada,Lunavada,42,06/02/2019,02/02/2019,F,93,Lunavada,MUSLIM,Nivrut,,2-2019
+Mahisagar,Lunavada,Lunavada,43,08/02/2019,08/02/2019,M,82,Bhakti Hospital,HINDU,Kheti,,2-2019
+Mahisagar,Lunavada,Lunavada,44,11/02/2019,23/01/2019,M,28,Lunavada,HINDU,,,2-2019
+Mahisagar,Lunavada,Lunavada,45,12/02/2019,18/08/2018,M,35,Lunavada,MUSLIM,,,2-2019
+Mahisagar,Lunavada,Lunavada,46,13/02/2019,13/02/2019,M,55,Lunavada,HINDU,,,2-2019
+Mahisagar,Lunavada,Lunavada,47,13/02/2019,12/02/2019,F,58,Shardha Hospital,HINDU,,,2-2019
+Mahisagar,Lunavada,Lunavada,48,15/02/2019,13/02/2019,F,85,Lunavada,HINDU,,,2-2019
+Mahisagar,Lunavada,Lunavada,49,15/02/2019,10/02/2019,M,53,Lunavada,HINDU,Nivrut,,2-2019
+Mahisagar,Lunavada,Lunavada,50,15/02/2019,31-02-2019,M,54,Lunavada,HINDU,Majuri,,2-2019
+Mahisagar,Lunavada,Lunavada,51,15/02/2019,14/02/2019,M,78,Lunavada,,Nivrut,,2-2019
+Mahisagar,Lunavada,Lunavada,52,16/02/2019,13/02/2019,M,58,Shardha Hospital,HINDU,Kheti,,2-2019
+Mahisagar,Lunavada,Lunavada,53,16/02/2019,14/02/2019,F,24,Lunavada,HINDU,Gharkam,,2-2019
+Mahisagar,Lunavada,Lunavada,54,19/02/2019,03/02/2019,F,88,Lunavada,HINDU,Gharkam,,2-2019
+Mahisagar,Lunavada,Lunavada,55,18/02/2019,17/02/2019,F,61,Lunavada,HINDU,Nivrut,,2-2019
+Mahisagar,Lunavada,Lunavada,56,18/02/2019,03/02/2019,F,25,Junral Hospital,HINDU,Gharkam,,2-2019
+Mahisagar,Lunavada,Lunavada,57,18/02/2019,07/02/2019,F,71,Lunavada,HINDU,,,2-2019
+Mahisagar,Lunavada,Lunavada,58,25/02/2019,21/02/2019,M,67,Lunavada,MUSLIM,Parchuran Vepar,,2-2019
+Mahisagar,Lunavada,Lunavada,59,25/02/2019,22/02/2019,F,75,Lunavada,HINDU,Majuri,,2-2019
+Mahisagar,Lunavada,Lunavada,60,26/02/2019,24/02/2019,M,82,Lunavada,MUSLIM,Nivrut,,2-2019
+Mahisagar,Lunavada,Lunavada,61,26/02/2019,22/02/2019,F,65,Bhakti Hospital,HINDU,Gharkam,,2-2019
+Mahisagar,Lunavada,Lunavada,62,26/02/2019,23/02/2019,F,65,Lunavada,HINDU,Gharkam,,2-2019
+Mahisagar,Lunavada,Lunavada,63,01/03/2019,20/02/2019,M,72,Lunavada,HINDU,,,3-2019
+Mahisagar,Lunavada,Lunavada,64,02/03/2019,22/02/2019,M,15 Month,Junral Hospital,HINDU,,,3-2019
+Mahisagar,Lunavada,Lunavada,65,05/03/2019,02/03/2019,M,70,Lunavada,HINDU,Nivrut,,3-2019
+Mahisagar,Lunavada,Lunavada,66,06/03/2019,03/03/2019,M,72,Lunavada,HINDU,Majuri,,3-2019
+Mahisagar,Lunavada,Lunavada,67,13/03/2019,03/03/2019,M,52,Lunavada,HINDU,Dhanho,,3-2019
+Mahisagar,Lunavada,Lunavada,68,13/03/2019,24/02/2019,M,55,Lilavati Hospital,HINDU,Kheti,,3-2019
+Mahisagar,Lunavada,Lunavada,69,13/03/2019,11/03/2019,F,76,Lunavada,HINDU,Gharkam,,3-2019
+Mahisagar,Lunavada,Lunavada,70,13/03/2019,06/03/2019,F,70,Lunavada,HINDU,Gharkam,,3-2019
+Mahisagar,Lunavada,Lunavada,71,15/03/2019,07/03/2019,F,68,Lunavada,MUSLIM,Gharkam,,3-2019
+Mahisagar,Lunavada,Lunavada,72,18/03/2019,18/03/2019,M,75,Lunavada,HINDU,Chutak Vepar,,3-2019
+Mahisagar,Lunavada,Lunavada,73,18/03/2019,14/03/2019,M,78,Lunavada,MUSLIM,Nivrut,,3-2019
+Mahisagar,Lunavada,Lunavada,74,18/03/2019,05/12/1970,M,50,Lunavada,MUSLIM,Nivrut,,3-2019
+Mahisagar,Lunavada,Lunavada,75,19/03/2019,14/03/2019,M,60,Lunavada,HINDU,,,3-2019
+Mahisagar,Lunavada,Lunavada,76,19/03/2019,17/03/2019,M,75,Lunavada,HINDU,Techer,,3-2019
+Mahisagar,Lunavada,Lunavada,77,22/03/2019,27/02/2019,F,91,Lunavada,HINDU,Gharkam,,3-2019
+Mahisagar,Lunavada,Lunavada,78,25/03/2019,09/03/2019,M,27,Lunavada,HINDU,Nokri,,3-2019
+Mahisagar,Lunavada,Lunavada,79,23/07/2019,24/03/2019,M,65,Lunavada,MUSLIM,Nivrut,,7-2019
+Mahisagar,Lunavada,Lunavada,80,27/03/2019,24/03/2019,F,62,Lunavada,HINDU,Nivrut,,3-2019
+Mahisagar,Lunavada,Lunavada,81,27/03/2019,24/03/2019,M,31,Lunavada,HINDU,Riksha Drivar Dhando,,3-2019
+Mahisagar,Lunavada,Lunavada,82,27/03/2019,16/03/2019,M,80,Bhakti Hospital,HINDU,Kheti,,3-2019
+Mahisagar,Lunavada,Lunavada,83,28/03/2019,25/03/2019,F,58,Lunavada,HINDU,Gharkam,,3-2019
+Mahisagar,Lunavada,Lunavada,84,28/03/2019,27/03/2019,F,80,Lunavada,MUSLIM,Gharkam,,3-2019
+Mahisagar,Lunavada,Lunavada,85,01/04/2019,26/03/2019,M,60,Lunavada,MUSLIM,Nivrut,,4-2019
+Mahisagar,Lunavada,Lunavada,86,21/04/2019,31/03/2019,M,73,Lunavada,HINDU,Karm Kand Puja,,4-2019
+Mahisagar,Lunavada,Lunavada,87,21/04/2019,22/01/2018,M,32,Lunavada,HINDU,Majuri,,4-2019
+Mahisagar,Lunavada,Lunavada,88,04/04/2019,21/03/2019,M,39,Lunavada,HINDU,,,4-2019
+Mahisagar,Lunavada,Lunavada,89,05/04/2019,02/04/2019,M,68,Lunavada,HINDU,Nivrut,,4-2019
+Mahisagar,Lunavada,Lunavada,90,05/04/2019,04/04/2019,M,66,Lunavada,HINDU,Nivrut,,4-2019
+Mahisagar,Lunavada,Lunavada,91,08/04/2019,05/04/2019,F,79,Lunavada,HINDU,Gharkam,,4-2019
+Mahisagar,Lunavada,Lunavada,92,08/04/2019,04/04/2019,M,67,Lunavada,HINDU,Vepar,,4-2019
+Mahisagar,Lunavada,Lunavada,93,08/04/2019,21/03/2019,M,84,Lunavada,HINDU,Kheti Kam,,4-2019
+Mahisagar,Lunavada,Lunavada,94,10/04/2019,05/04/2019,M,85,Lunavada,HINDU,Kheti Kam,,4-2019
+Mahisagar,Lunavada,Lunavada,95,10/04/2019,09/04/2019,F,74,Bhakti Hospital,HINDU,Gharkam,,4-2019
+Mahisagar,Lunavada,Lunavada,96,10/04/2019,09/04/2019,F,80,Bhakti Hospital,MUSLIM,Gharkam,,4-2019
+Mahisagar,Lunavada,Lunavada,97,12/04/2019,08/06/2019,M,42,Lunavada,HINDU,Nivrut,,4-2019
+Mahisagar,Lunavada,Lunavada,98,16/04/2019,12/04/2019,F,66,Lunavada,MUSLIM,Gharkam,,4-2019
+Mahisagar,Lunavada,Lunavada,99,16/04/2019,13/04/2019,F,85,Lunavada,HINDU,Nivrut,,4-2019
+Mahisagar,Lunavada,Lunavada,100,18/04/2019,01/04/2019,M,22,Junral Hospital,HINDU,Kheti,,4-2019
+Mahisagar,Lunavada,Lunavada,101,18/04/2019,10/04/2019,M,70,Junral Hospital,HINDU,Majuri,,4-2019
+Mahisagar,Lunavada,Lunavada,102,20/04/2019,28/03/2019,F,49,Lunavada,HINDU,Majuri,,4-2019
+Mahisagar,Lunavada,Lunavada,103,20/04/2019,13/04/2019,M,63,Lilavati Hospital,HINDU,Kheti,,4-2019
+Mahisagar,Lunavada,Lunavada,104,22/04/2019,21/04/2019,M,74,Lunavada,HINDU,Ritayard Sarkari Karmchari,,4-2019
+Mahisagar,Lunavada,Lunavada,105,24/04/2019,22/04/2019,F,67,Lunavada,HINDU,Gharkam,,4-2019
+Mahisagar,Lunavada,Lunavada,106,24/04/2019,16/04/2019,F,87,Lunavada,HINDU,Majuri,,4-2019
+Mahisagar,Lunavada,Lunavada,107,25/04/2019,23/04/2019,M,8,Lunavada,MUSLIM,Nivrut,,4-2019
+Mahisagar,Lunavada,Lunavada,108,29/04/2019,12/04/2019,M,74,Lunavada,HINDU,,,4-2019
+Mahisagar,Lunavada,Lunavada,109,01/05/2019,20/04/2019,M,70,Lilavati Hospital,HINDU,Nivrut,,5-2019
+Mahisagar,Lunavada,Lunavada,110,03/05/2019,30/04/2019,F,75,Lunavada,MUSLIM,Gharkam,,5-2019
+Mahisagar,Lunavada,Lunavada,111,03/05/2019,02/05/2019,M,70,Lunavada,HINDU,Dhobi,,5-2019
+Mahisagar,Lunavada,Lunavada,112,06/05/2019,03/05/2019,M,63,Lunavada,MUSLIM,Majuti,,5-2019
+Mahisagar,Lunavada,Lunavada,113,06/05/2019,29/04/2019,M,69,Lunavada,HINDU,Nivrut,,5-2019
+Mahisagar,Lunavada,Lunavada,114,06/05/2019,04/05/2019,M,69,Lunavada,HINDU,Drivar,,5-2019
+Mahisagar,Lunavada,Lunavada,115,08/05/2019,05/05/2019,F,69,Lunavada,HINDU,Gharkam,,5-2019
+Mahisagar,Lunavada,Lunavada,116,08/05/2019,03/05/2019,F,75,Lilavati Hospital,HINDU,Nivrut,,5-2019
+Mahisagar,Lunavada,Lunavada,117,08/05/2019,20/04/2019,M,90,Lunavada,HINDU,Nivrut,,5-2019
+Mahisagar,Lunavada,Lunavada,118,09/05/2019,04/05/2019,F,8,Lunavada,MUSLIM,,,5-2019
+Mahisagar,Lunavada,Lunavada,119,15/05/2019,10/05/2019,M,85,Lunavada,MUSLIM,Majuri,,5-2019
+Mahisagar,Lunavada,Lunavada,120,16/05/2019,12/05/2019,M,60,Lilavati Hospital,HINDU,Ritayard ,,5-2019
+Mahisagar,Lunavada,Lunavada,121,16/05/2019,06/05/2019,F,79,Lunavada,MUSLIM,Nivrut,,5-2019
+Mahisagar,Lunavada,Lunavada,122,20/05/2019,17/05/2019,M,99,Bhaki,HINDU,Kheti,,5-2019
+Mahisagar,Lunavada,Lunavada,123,22/05/2019,18/05/2019,F,85,Shardha Hospital,HINDU,Gharkam,,5-2019
+Mahisagar,Lunavada,Lunavada,124,22/05/2019,19/05/2019,M,36,Lunavada,HINDU,Majuri,,5-2019
+Mahisagar,Lunavada,Lunavada,125,22/05/2019,05/05/2019,F,77,Lunavada,HINDU,Nivrut,,5-2019
+Mahisagar,Lunavada,Lunavada,126,23/05/2019,07/01/2019,F,63,Lunavada,HINDU,Gharkam,,5-2019
+Mahisagar,Lunavada,Lunavada,127,27/05/2019,20/05/2019,F,66,Lunavada,MUSLIM,Gharkam,,5-2019
+Mahisagar,Lunavada,Lunavada,128,27/05/2019,25/05/2019,M,62,Lunavada,MUSLIM,Nivrut,,5-2019
+Mahisagar,Lunavada,Lunavada,129,01/06/2019,30/05/2019,M,87,Lunavada,MUSLIM,Majuri,,6-2019
+Mahisagar,Lunavada,Lunavada,130,04/06/2019,04/05/2019,F,26,Bhavsar Hospital,HINDU,Gharkam,,6-2019
+Mahisagar,Lunavada,Lunavada,131,04/06/2019,01/06/2019,F,75,Lunavada,HINDU,Gharkam,,6-2019
+Mahisagar,Lunavada,Lunavada,132,06/06/2019,03/06/2019,M,72,Lunavada,HINDU,Nokri,,6-2019
+Mahisagar,Lunavada,Lunavada,133,06/06/2019,27/05/2019,F,68,Lunavada,MUSLIM,Gharkam,,6-2019
+Mahisagar,Lunavada,Lunavada,134,07/06/2019,04/06/2019,M,38,Lunavada,HINDU,Chutak Kam,,6-2019
+Mahisagar,Lunavada,Lunavada,135,10/06/2019,06/06/2019,M,71,Lunavada,HINDU,Nivrut,,6-2019
+Mahisagar,Lunavada,Lunavada,136,11/06/2019,31/05/2019,F,4 Month,Lunavada,MUSLIM,,,6-2019
+Mahisagar,Lunavada,Lunavada,137,11/06/2019,08/06/2019,F,100,Lunavada,HINDU,Gharkam,,6-2019
+Mahisagar,Lunavada,Lunavada,138,13/06/2019,18/05/2019,F,45,Lunavada,MUSLIM,Gharkam,,6-2019
+Mahisagar,Lunavada,Lunavada,139,13/06/2019,28/05/2019,M,67,Lunavada,HINDU,Majuri,,6-2019
+Mahisagar,Lunavada,Lunavada,140,13/06/2019,09/06/2019,F,68,Lunavada,HINDU,Gharkam,,6-2019
+Mahisagar,Lunavada,Lunavada,141,14/06/2019,01/06/2019,F,7,Lunavada,MUSLIM,Gharkam,,6-2019
+Mahisagar,Lunavada,Lunavada,142,15/06/2019,12/06/2019,F,62,Lunavada,MUSLIM,Gharkam,,6-2019
+Mahisagar,Lunavada,Lunavada,143,15/06/2019,07/06/2019,M,81,Lunavada,HINDU,Nivrut,,6-2019
+Mahisagar,Lunavada,Lunavada,144,17/06/2019,08/06/2019,M,84,Lunavada,HINDU,Nivrut,,6-2019
+Mahisagar,Lunavada,Lunavada,145,17/06/2019,13/06/2019,M,85,Lunavada,HINDU,Nivrut,,6-2019
+Mahisagar,Lunavada,Lunavada,146,18/06/2019,16/06/2019,F,80,Lunavada,HINDU,Nivrut,,6-2019
+Mahisagar,Lunavada,Lunavada,147,19/06/2019,07/06/2019,M,55,Lunavada,HINDU,Majuri,,6-2019
+Mahisagar,Lunavada,Lunavada,148,19/06/2019,07/06/2019,F,75,Lunavada,HINDU,Gharkam,,6-2019
+Mahisagar,Lunavada,Lunavada,149,19/06/2019,10/06/2019,M,60,Lunavada,HINDU,Nivrut,,6-2019
+Mahisagar,Lunavada,Lunavada,150,19/06/2019,17/06/2019,M,68,Lunavada,HINDU,Nivrut,,6-2019
+Mahisagar,Lunavada,Lunavada,151,21/06/2019,18/06/2019,F,66,Lunavada,HINDU,Gharkam,,6-2019
+Mahisagar,Lunavada,Lunavada,152,24/06/2019,18/06/2019,M,62,Lunavada,MUSLIM,Gharkam,,6-2019
+Mahisagar,Lunavada,Lunavada,153,25/06/2019,08/06/2019,F,90,Lunavada,HINDU,Gharkam,,6-2019
+Mahisagar,Lunavada,Lunavada,154,27/06/2019,21/06/2019,M,74,Shardha Hospital,HINDU,Nivrut,,6-2019
+Mahisagar,Lunavada,Lunavada,155,28/06/2019,10/06/2019,F,75,Lunavada,HINDU,Gharkam,,6-2019
+Mahisagar,Lunavada,Lunavada,156,28/06/2019,08/06/2019,F,76,Lunavada,MUSLIM,Gharkam,,6-2019
+Mahisagar,Lunavada,Lunavada,157,29/06/2019,24/06/2019,F,65,Lunavada,MUSLIM,Gharkam,,6-2019
+Mahisagar,Lunavada,Lunavada,158,29/06/2019,27/06/2019,M,54,Lilavati Hospital,HINDU,Nokri,,6-2019
+Mahisagar,Lunavada,Lunavada,159,02/07/2019,26/06/2019,F,75,Lunavada,MUSLIM,Nivrut,,7-2019
+Mahisagar,Lunavada,Lunavada,160,08/07/2019,05/07/2019,M,35,Lunavada,HINDU,Nivrut,,7-2019
+Mahisagar,Lunavada,Lunavada,161,09/07/2019,28/06/2019,M,49,Lunavada,HINDU,Nivrut,,7-2019
+Mahisagar,Lunavada,Lunavada,162,11/07/2019,26/06/2019,F,29,Lunavada,HINDU,Nivrut,,7-2019
+Mahisagar,Lunavada,Lunavada,163,11/07/2019,10/07/2019,M,70,Lunavada,HINDU,Nivrut,,7-2019
+Mahisagar,Lunavada,Lunavada,164,12/07/2019,26/02/2019,M,28,Lunavada,HINDU,Majuri,,7-2019
+Mahisagar,Lunavada,Lunavada,165,15/06/2019,12/06/2019,M,67,Lunavada,HINDU,,,6-2019
+Mahisagar,Lunavada,Lunavada,166,16/07/2019,03/07/2019,M,37,Lunavada,HINDU,Kheti,,7-2019
+Mahisagar,Lunavada,Lunavada,167,16/07/2019,30/06/2019,M,90,Lunavada,HINDU,Majuri,,7-2019
+Mahisagar,Lunavada,Lunavada,168,16/07/2019,11/07/2019,M,45,Lunavada,HINDU,Majuri,,7-2019
+Mahisagar,Lunavada,Lunavada,169,17/07/2019,07/07/2019,F,83,Lunavada,HINDU,Gharkam,,7-2019
+Mahisagar,Lunavada,Lunavada,170,19/06/2019,10/07/2019,M,80,Lunavada,HINDU,Nivrut,,6-2019
+Mahisagar,Lunavada,Lunavada,171,19/07/2019,05/07/2019,M,27,Lunavada,HINDU,Majuri,,7-2019
+Mahisagar,Lunavada,Lunavada,172,20/07/2019,01/06/2019,M,100,Lunavada,HINDU,Majuri,,7-2019
+Mahisagar,Lunavada,Lunavada,173,23/07/2019,10/07/2019,F,72,Lunavada,HINDU,Gharkam,,7-2019
+Mahisagar,Lunavada,Lunavada,174,24/07/2019,19/07/2019,F,49,Lunavada,MUSLIM,Gharkam,,7-2019
+Mahisagar,Lunavada,Lunavada,175,24/07/2019,05/07/2019,M,47,Lunavada,MUSLIM,Majuri,,7-2019
+Mahisagar,Lunavada,Lunavada,176,24/07/2019,18/07/2019,M,97,Lunavada,HINDU,,,7-2019
+Mahisagar,Lunavada,Lunavada,177,25/06/2019,23/07/2019,F,95,Lunavada,HINDU,Gharkam,,6-2019
+Mahisagar,Lunavada,Lunavada,178,25/06/2019,23/07/2019,M,81,Lunavada,HINDU,,,6-2019
+Mahisagar,Lunavada,Lunavada,179,25/06/2019,24/07/2019,M,38,Lunavada,HINDU,Majuri,,6-2019
+Mahisagar,Lunavada,Lunavada,180,30/07/2019,29/07/2019,M,65,Lunavada,MUSLIM,Nivrut,,7-2019
+Mahisagar,Lunavada,Lunavada,181,30/07/2019,29/07/2019,F,53,Lunavada,HINDU,Gharkam,,7-2019
+Mahisagar,Lunavada,Lunavada,182,31/07/2019,15/07/2019,F,85,Lunavada,HINDU,Majuri,,7-2019
+Mahisagar,Lunavada,Lunavada,183,01/08/2019,27/07/2019,F,85,Lunavada,HINDU,Gharkam,,8-2019
+Mahisagar,Lunavada,Lunavada,184,01/08/2019,04/07/2019,M,6,Lunavada,MUSLIM,,,8-2019
+Mahisagar,Lunavada,Lunavada,185,21/08/2019,27/06/2019,F,82,Lunavada,HINDU,Gharkam,,8-2019
+Mahisagar,Lunavada,Lunavada,186,03/08/2019,29/07/2019,M,60,Lilavati Hospital,HINDU,Dhandho,,8-2019
+Mahisagar,Lunavada,Lunavada,187,07/08/2019,30/07/2019,M,95,Lunavada,HINDU,Nivrut,,8-2019
+Mahisagar,Lunavada,Lunavada,188,13--08-2019,26/07/2019,F,54,Shardha Hospital,HINDU,Gharkam,,#VALUE!
+Mahisagar,Lunavada,Lunavada,189,13/08/2019,07/08/2019,F,59,Lunavada,HINDU,Gharkam,,8-2019
+Mahisagar,Lunavada,Lunavada,190,13/08/2019,12/08/2019,F,78,Lunavada,HINDU,Gharkam,,8-2019
+Mahisagar,Lunavada,Lunavada,191,14/08/2019,09/08/2019,M,76,Lunavada,HINDU,,,8-2019
+Mahisagar,Lunavada,Lunavada,192,14/08/2019,23/07/2019,M,63,Lunavada,HINDU,,,8-2019
+Mahisagar,Lunavada,Lunavada,193,14/08/2019,21/08/2019,F,63,Lilavati Hospital,HINDU,,,8-2019
+Mahisagar,Lunavada,Lunavada,194,14/08/2019,04/08/2019,M,68,Lilavati Hospital,HINDU,Nivrut,,8-2019
+Mahisagar,Lunavada,Lunavada,195,20/08/2019,11/08/2019,M,65,Bhakti Hospital,HINDU,Ritayard,,8-2019
+Mahisagar,Lunavada,Lunavada,196,20/08/2019,16/08/2019,F,60,Lunavada,HINDU,Gharkam,,8-2019
+Mahisagar,Lunavada,Lunavada,197,20/08/2019,16/08/2019,M,85,Lunavada,MUSLIM,Nivrut,,8-2019
+Mahisagar,Lunavada,Lunavada,198,21/08/2019,11/08/2019,F,60,Lunavada,HINDU,Gharkam,,8-2019
+Mahisagar,Lunavada,Lunavada,199,21/08/2019,21/08/2019,M,21,Bhakti Hospital,HINDU,,,8-2019
+Mahisagar,Lunavada,Lunavada,200,22/08/2019,20/08/2019,M,76,Lunavada,HINDU,Nivrut,,8-2019
+Mahisagar,Lunavada,Lunavada,201,22/08/2019,20/08/2019,M,45,Shardha Hospital,MUSLIM,Draving,,8-2019
+Mahisagar,Lunavada,Lunavada,202,22/08/2019,12/08/2019,M,70,Lunavada,MUSLIM,Nivrut,,8-2019
+Mahisagar,Lunavada,Lunavada,203,23/08/2019,21/08/2019,M,75,Lunavada,MUSLIM,Nivrut,,8-2019
+Mahisagar,Lunavada,Lunavada,204,26/08/2019,20/08/2019,F,85,Lunavada,MUSLIM,Nivrut,,8-2019
+Mahisagar,Lunavada,Lunavada,205,27/08/2019,18/08/2019,M,70,Lunavada,MUSLIM,Majuri,,8-2019
+Mahisagar,Lunavada,Lunavada,206,28/08/2019,26/08/2019,F,59,Lunavada,MUSLIM,Gharkam,,8-2019
+Mahisagar,Lunavada,Lunavada,207,28/08/2019,26/08/2019,F,42,Lunavada,MUSLIM,Gharkam,,8-2019
+Mahisagar,Lunavada,Lunavada,208,29/08/2019,28/08/2019,M,67,Lunavada,MUSLIM,Majuri,,8-2019
+Mahisagar,Lunavada,Lunavada,209,30/08/2019,23/08/2019,M,66,Lunavada,MUSLIM,Nivrut,,8-2019
+Mahisagar,Lunavada,Lunavada,210,30/08/2019,30/08/2019,M,85,Bhakti Hospital,HINDU,Nivrut,,8-2019
+Mahisagar,Lunavada,Lunavada,211,03/09/2019,28/08/2019,M,78,Lunavada,HINDU,Nivrut,,9-2019
+Mahisagar,Lunavada,Lunavada,212,03/09/2019,28/08/2019,F,70,Lunavada,MUSLIM,Gharkam,,9-2019
+Mahisagar,Lunavada,Lunavada,213,03/09/2019,02/09/2019,M,59,Lunavada,HINDU,Karigar,,9-2019
+Mahisagar,Lunavada,Lunavada,214,05/09/2019,10/08/2019,F,70,Lunavada,HINDU,Gharkam,,9-2019
+Mahisagar,Lunavada,Lunavada,215,06/09/2019,08/08/2019,M,89,Lunavada,MUSLIM,Vepar,,9-2019
+Mahisagar,Lunavada,Lunavada,216,06/09/2019,09/09/2019,F,61,Lunavada,HINDU,Gharkam,,9-2019
+Mahisagar,Lunavada,Lunavada,217,07/09/2019,09/09/2019,M,71,Lunavada,HINDU,,,9-2019
+Mahisagar,Lunavada,Lunavada,218,09/09/2019,06/09/2019,M,66,Lunavada,HINDU,,,9-2019
+Mahisagar,Lunavada,Lunavada,219,09/09/2019,06/09/2019,F,55,Lunavada,HINDU,Gharkam,,9-2019
+Mahisagar,Lunavada,Lunavada,220,11/09/2019,05/09/2019,M,58,Lunavada,MUSLIM,,,9-2019
+Mahisagar,Lunavada,Lunavada,221,08/09/2019,08/09/2019,F,71,Lunavada,MUSLIM,Gharkam,,9-2019
+Mahisagar,Lunavada,Lunavada,222,13/09/2019,11/09/2019,F,84,Lunavada,MUSLIM,Gharkam,,9-2019
+Mahisagar,Lunavada,Lunavada,223,16/09/2019,11/09/2019,F,52,Shardha Hospital,MUSLIM,Gharkam,,9-2019
+Mahisagar,Lunavada,Lunavada,224,17/09/2019,14/09/2019,F,40,Bhakti Hospital,HINDU,Gharkam,,9-2019
+Mahisagar,Lunavada,Lunavada,225,17/09/2019,13/09/2019,F,65,Lunavada,HINDU,Gharkam,,9-2019
+Mahisagar,Lunavada,Lunavada,226,18/09/2019,16/09/2019,F,66,Lunavada,HINDU,Gharkam,,9-2019
+Mahisagar,Lunavada,Lunavada,227,19/09/2019,10/09/2019,F,84,Lunavada,HINDU,Gharkam,,9-2019
+Mahisagar,Lunavada,Lunavada,228,25-092019,13/09/2019,M,58,Lunavada,MUSLIM,Gharkam,,#VALUE!
+Mahisagar,Lunavada,Lunavada,229,26/09/2019,22/09/2019,F,75,Lunavada,HINDU,Gharkam,,9-2019
+Mahisagar,Lunavada,Lunavada,230,27/08/2019,24/09/2019,M,85,Shardha Hospital,MUSLIM,Gharkam,,8-2019
+Mahisagar,Lunavada,Lunavada,231,30/09/2019,11/09/2019,M,59,Lunavada,MUSLIM,Chutak Vepar,,9-2019
+Mahisagar,Lunavada,Lunavada,232,03/10/2019,02/10/2019,F,80,Lunavada,MUSLIM,Nivrut,,10-2019
+Mahisagar,Lunavada,Lunavada,233,03/10/2019,29/09/2019,F,56,Lunavada,MUSLIM,Gharkam,,10-2019
+Mahisagar,Lunavada,Lunavada,234,04/10/2019,03/10/2019,F,73,Lunavada,HINDU,Gharkam,,10-2019
+Mahisagar,Lunavada,Lunavada,235,05/10/2019,20/09/2019,F,60,Lunavada,HINDU,Gharkam,,10-2019
+Mahisagar,Lunavada,Lunavada,236,05/10/2019,16/09/2019,M,58,Lunavada,MUSLIM,Majuri,,10-2019
+Mahisagar,Lunavada,Lunavada,237,05/10/2019,09/10/2019,F,49,Lilavati Hospital,MUSLIM,Silaykam,,10-2019
+Mahisagar,Lunavada,Lunavada,238,07/10/2019,04/10/2019,M,37,Lunavada,MUSLIM,Majuri,,10-2019
+Mahisagar,Lunavada,Lunavada,239,09/10/2019,12/05/1995,F,45,Lunavada,HINDU,Gharkam,,10-2019
+Mahisagar,Lunavada,Lunavada,240,10/10/2019,05/10/2019,F,83,Lunavada,MUSLIM,Gharkam,,10-2019
+Mahisagar,Lunavada,Lunavada,241,10/10/2019,06/10/2019,F,96,Lunavada,HINDU,Gharkam,,10-2019
+Mahisagar,Lunavada,Lunavada,242,14/10/2019,03/10/2019,F,53,Shardha Hospital,HINDU,Gharkam,,10-2019
+Mahisagar,Lunavada,Lunavada,243,14/10/2019,08/10/2019,F,72,Shardha Hospital,HINDU,Gharkam,,10-2019
+Mahisagar,Lunavada,Lunavada,244,15/10/2019,08/10/2019,M,78,Lunavada,HINDU,Mati Kam,,10-2019
+Mahisagar,Lunavada,Lunavada,245,17/10/2019,11/10/2019,F,30,Heli Hospital,HINDU,Gharkam,,10-2019
+Mahisagar,Lunavada,Lunavada,246,22/10/2019,15/10/2019,F,74,Lunavada,MUSLIM,Gharkam,,10-2019
+Mahisagar,Lunavada,Lunavada,247,22/10/2019,11/10/2019,M,68,Lunavada,HINDU,Majuri,,10-2019
+Mahisagar,Lunavada,Lunavada,248,23/10/2019,04/10/2019,F,,Lunavada,HINDU,Gharkam,,10-2019
+Mahisagar,Lunavada,Lunavada,249,23/10/2019,08/10/2019,M,70,Lunavada,HINDU,Majuri,,10-2019
+Mahisagar,Lunavada,Lunavada,250,24/10/2019,18/10/2019,M,58,Lilavati Hospital,HINDU,Kheti,,10-2019
+Mahisagar,Lunavada,Lunavada,251,25/10/2019,23/10/2018,F,78,Lunavada,Islam,Nivrut,,10-2019
+Mahisagar,Lunavada,Lunavada,252,01/11/2019,29/10/2019,F,79,Lunavada,Islam,Nivrut,,11-2019
+Mahisagar,Lunavada,Lunavada,253,02/11/2019,22/10/2019,M,44,Lunavada,HINDU,Kheti,,11-2019
+Mahisagar,Lunavada,Lunavada,254,02/11/2019,30/10/2019,M,43,Lunavada,Islam,,,11-2019
+Mahisagar,Lunavada,Lunavada,255,02/11/2019,30/10/2019,M,50,Lunavada,HINDU,Nokri,,11-2019
+Mahisagar,Lunavada,Lunavada,256,04/11/2019,14/10/2019,M,10,Lunavada,Islam,,,11-2019
+Mahisagar,Lunavada,Lunavada,257,07/11/2019,27/10/2019,M,58,Lunavada,HINDU,Majuri,,11-2019
+Mahisagar,Lunavada,Lunavada,258,07/11/2019,18/10/2019,F,56,Lunavada,Islam,Gharkam,,11-2019
+Mahisagar,Lunavada,Lunavada,259,07/11/2019,26/10/2019,F,60,Lunavada,Islam,Gharkam,,11-2019
+Mahisagar,Lunavada,Lunavada,260,11/11/2019,05/11/2019,F,76,Lunavada,MUSLIM,Gharkam,,11-2019
+Mahisagar,Lunavada,Lunavada,261,13/11/2019,12/11/2019,F,61,Lilavati Hospital,HINDU,Kheti,,11-2019
+Mahisagar,Lunavada,Lunavada,262,13/11/2019,17/10/2019,F,60,Lilavati Hospital,HINDU,Kheti,,11-2019
+Mahisagar,Lunavada,Lunavada,263,13/11/2019,12/11/2019,M,80,Lunavada,HINDU,Kheti,,11-2019
+Mahisagar,Lunavada,Lunavada,264,15/11/2019,13/11/2019,M,26,Lunavada,HINDU,Kheti,,11-2019
+Mahisagar,Lunavada,Lunavada,265,15/11/2019,01/11/2019,M,60,Junral Hospital,HINDU,Kheti,,11-2019
+Mahisagar,Lunavada,Lunavada,266,18/11/2019,18/10/2019,M,75,Lunavada,HINDU,Nivrut,,11-2019
+Mahisagar,Lunavada,Lunavada,267,25/11/2019,07/11/2019,F,53,Lunavada,HINDU,Gharkam,,11-2019
+Mahisagar,Lunavada,Lunavada,268,25/11/2019,20/11/2019,F,72,Lunavada,Islam,Gharkam,,11-2019
+Mahisagar,Lunavada,Lunavada,269,26/11/2019,28/10/2019,F,85,Lunavada,HINDU,Kheti,,11-2019
+Mahisagar,Lunavada,Lunavada,270,26/11/2019,26/10/2019,M,55,Bhakti Hospital,HINDU,Kheti,,11-2019
+Mahisagar,Lunavada,Lunavada,271,26/11/2019,17/11/2019,M,25,Lilavati Hospital,HINDU,Kheti,,11-2019
+Mahisagar,Lunavada,Lunavada,272,26/11/2019,22/11/2019,M,65,Lilavati Hospital,HINDU,Kheti,,11-2019
+Mahisagar,Lunavada,Lunavada,273,29/11/2019,23/11/2019,F,40,Bhakti Hospital,HINDU,Kheti,,11-2019
+Mahisagar,Lunavada,Lunavada,274,28/11/2019,17/11/2019,M,60,Lunavada,HINDU,Kheti,,11-2019
+Mahisagar,Lunavada,Lunavada,275,29/11/2019,09/11/2019,F,60,Lunavada,MUSLIM,Gharkam,,11-2019
+Mahisagar,Lunavada,Lunavada,276,30/11/2019,27/11/2019,M,53,Lunavada,HINDU,Chutak Vepar,,11-2019
+Mahisagar,Lunavada,Lunavada,277,25/12/2019,29/11/2019,F,85,Lunavada,HINDU,Gharkam,,12-2019
+Mahisagar,Lunavada,Lunavada,278,21/12/2019,30/11/2019,M,43,Lunavada,HINDU,Kheti,,12-2019
+Mahisagar,Lunavada,Lunavada,279,02/12/2019,20/11/2019,M,65,Lunavada,HINDU,Majuri,,12-2019
+Mahisagar,Lunavada,Lunavada,280,03/12/2019,29/11/2019,F,65,Lunavada,HINDU,Kehti,,12-2019
+Mahisagar,Lunavada,Lunavada,281,03/12/2019,02/12/2019,F,70,Lunavada,Islam,Gharkam,,12-2019
+Mahisagar,Lunavada,Lunavada,282,03/12/2019,10/04/1975,F,44,Lunavada,Islam,Gharkam,,12-2019
+Mahisagar,Lunavada,Lunavada,283,04/12/2019,27/11/2019,M,75,Lunavada,Islam,Majuri,,12-2019
+Mahisagar,Lunavada,Lunavada,284,04/12/2019,29/11/2019,F,25,Junral Hospital,HINDU,Gharkam,,12-2019
+Mahisagar,Lunavada,Lunavada,285,07/12/2019,04/12/2019,M,63,Lunavada,HINDU,Gharkam,,12-2019
+Mahisagar,Lunavada,Lunavada,286,09/12/2019,24/11/2019,M,28,Junral Hospital,Islam,Nivrut,,12-2019
+Mahisagar,Lunavada,Lunavada,287,09/12/2019,05/12/2019,M,60,Lilavati Hospital,HINDU,Ritayard,,12-2019
+Mahisagar,Lunavada,Lunavada,288,12/12/2019,11/12/2019,F,80,Lunavada,Islam,Gharkam,,12-2019
+Mahisagar,Lunavada,Lunavada,289,13/12/2019,12/12/2019,M,63,Lunavada,HINDU,Majuri,,12-2019
+Mahisagar,Lunavada,Lunavada,290,16/12/2019,03/12/2019,F,61,Shardha Hospital,HINDU,Gharkam,,12-2019
+Mahisagar,Lunavada,Lunavada,291,16/12/2019,10/12/2019,M,36,Lunavada,HINDU,Majuri,,12-2019
+Mahisagar,Lunavada,Lunavada,292,18/12/2019,07/12/2019,M,49,Lunavada,HINDU,Majuri,,12-2019
+Mahisagar,Lunavada,Lunavada,293,18/12/2019,13/12/2019,F,84,Lunavada,HINDU,Gharkam,,12-2019
+Mahisagar,Lunavada,Lunavada,294,18/12/2019,16/12/2019,M,52,Lunavada,HINDU,Nokri,,12-2019
+Mahisagar,Lunavada,Lunavada,295,18/12/2019,16/12/2019,F,70,Lunavada,Islam,Gharkam,,12-2019
+Mahisagar,Lunavada,Lunavada,296,18/12/2019,17/12/2019,F,70,Lilavati Hospital,HINDU,Gharkam,,12-2019
+Mahisagar,Lunavada,Lunavada,297,18/12/2019,24/11/2019,F,62,Lunavada,HINDU,Gharkam,,12-2019
+Mahisagar,Lunavada,Lunavada,298,19/12/2019,13/12/2019,M,62,Lunavada,Islam,Vepar,,12-2019
+Mahisagar,Lunavada,Lunavada,299,19/12/2019,25/11/2019,F,23,Lunavada,Islam,Vepar,,12-2019
+Mahisagar,Lunavada,Lunavada,300,19/12/2019,10/12/2019,F,42,Lunavada,Islam,Gharkam,,12-2019
+Mahisagar,Lunavada,Lunavada,301,19/12/2019,11/12/2019,F,1 Days,Junral Hospital,HINDU,Gharkam,,12-2019
+Mahisagar,Lunavada,Lunavada,302,19/12/2019,13/12/2019,M,82,Lunavada,Islam,,,12-2019
+Mahisagar,Lunavada,Lunavada,303,20/12/2019,17/12/2019,F,43,Lunavada,Islam,,,12-2019
+Mahisagar,Lunavada,Lunavada,304,24/12/2019,19/12/2019,F,67,Lunavada,Islam,,,12-2019
+Mahisagar,Lunavada,Lunavada,305,24/12/2019,20/12/2019,F,72,Lilavati Hospital,,Nivrut,,12-2019
+Mahisagar,Lunavada,Lunavada,306,24/12/2019,23/12/2019,M,45,Lilavati Hospital,,Nivrut,,12-2019
+Mahisagar,Lunavada,Lunavada,307,26/12/2019,24/12/2019,M,47,Bhoivada,,Nivrut,,12-2019
+Mahisagar,Lunavada,Lunavada,308,26/12/2019,10/12/2019,M,86,Lunavada,,Nokri,,12-2019
+Mahisagar,Lunavada,Lunavada,309,26/12/2019,22/12/2019,M,80,Lunavada,,Vepar,,12-2019
+Mahisagar,Lunavada,Lunavada,310,27/12/2019,19/12/2019,F,78,Lunavada,Islam,,,12-2019
+Mahisagar,Lunavada,Lunavada,311,27/12/2019,12/12/2019,M,65,Lunavada,HINDU,Majuri,,12-2019
+Mahisagar,Lunavada,Lunavada,312,27/12/2019,27/12/2019,F,60,Lilavati Hospital,HINDU,Kheti,,12-2019
+Mahisagar,Lunavada,Lunavada,313,27/12/2019,26/12/2019,F,90,Lunavada,Islam,,,12-2019
+Mahisagar,Lunavada,Lunavada,314,31/12/2019,28/12/2019,F,65,Lilavati Hospital,HINDU,,,12-2019
+Mahisagar,Lunavada,Lunavada,315,31/12/2019,28/12/2019,F,90,Velanvas,HINDU,,,12-2019
+Mahisagar,Lunavada,Lunavada,1,01/02/2020,27/12/2019,F,89,Lunavada,Muslim,Housewife,,2-2020
+Mahisagar,Lunavada,Lunavada,2,01/03/2020,01/02/2020,M,40,Lilavati Hospital Lunawada,Hindu,Kheti,,3-2020
+Mahisagar,Lunavada,Lunavada,3,01/03/2020,18/12/2019,M,85,Lunavada,Muslim,Business,,3-2020
+Mahisagar,Lunavada,Lunavada,4,01/03/2020,01/02/2020,M,57,Lunavada,Hindu,Labour,,3-2020
+Mahisagar,Lunavada,Lunavada,5,01/03/2020,01/02/2020,M,70,Lunavada,Hindu,,,3-2020
+Mahisagar,Lunavada,Lunavada,6,01/06/2020,17/12/1920,M,71,Lunavada,Muslim,,,6-2020
+Mahisagar,Lunavada,Lunavada,7,01/07/2020,30/12/2019,M,82,Lilavati Hospital Lunawada,Hindu,Retire,,7-2020
+Mahisagar,Lunavada,Lunavada,8,01/07/2020,31/2020,F,81,Lunavada,Hindu,Housewife,,7-2020
+Mahisagar,Lunavada,Lunavada,9,01/09/2020,22/12/2019,M,8 Month,Lunavada,Hindu,,,9-2020
+Mahisagar,Lunavada,Lunavada,10,01/09/2020,24/12/2019,M,32,General Hospital Lunavada,Hindu,Kheti,,9-2020
+Mahisagar,Lunavada,Lunavada,11,01/10/2020,01/07/2020,F,16,Lunavada,Hindu,Study,,10-2020
+Mahisagar,Lunavada,Lunavada,12,15/01/2020,01/12/2020,M,90,Lunavada,Hindu,Labour,,1-2020
+Mahisagar,Lunavada,Lunavada,13,16/01/2020,01/05/2020,M,68,Lunavada,Muslim,Labour,,1-2020
+Mahisagar,Lunavada,Lunavada,14,17/01/2020,16/01/2020,M,82,Lunavada,Hindu,Retire,,1-2020
+Mahisagar,Lunavada,Lunavada,15,18/01/2020,13/01/2020,M,53,Lunavada,Muslim,Retire,,1-2020
+Mahisagar,Lunavada,Lunavada,16,18/01/2020,13/01/2020,F,97,Lunavada,Muslim,Housewife,,1-2020
+Mahisagar,Lunavada,Lunavada,17,18/01/2020,13/01/2020,F,60,Lunavada,Muslim,Retire,,1-2020
+Mahisagar,Lunavada,Lunavada,18,18/01/2020,16/01/2020,M,49,Lunavada,Hindu,Sonikam,,1-2020
+Mahisagar,Lunavada,Lunavada,19,29/09/2020,13/01/2020,M,52,Lilavati Hospital Lunawada,Hindu,S T Driver,,9-2020
+Mahisagar,Lunavada,Lunavada,20,29/09/2020,01/07/2020,M,62,Lunavada,Hindu,Ludhrikam,,9-2020
+Mahisagar,Lunavada,Lunavada,21,23/01/2020,01/08/2020,F,50,Lunavada,Hindu,Housewife,,1-2020
+Mahisagar,Lunavada,Lunavada,22,23/01/2020,20/01/2020,M,82,Lunavada,Islam,Retire,,1-2020
+Mahisagar,Lunavada,Lunavada,23,24/01/2020,22/01/2020,M,68,Lunavada,Hindu,Shop,,1-2020
+Mahisagar,Lunavada,Lunavada,24,27/01/2020,19/01/2020,M,53,Lunavada,,,,1-2020
+Mahisagar,Lunavada,Lunavada,25,27/01/2020,24/01/2020,F,68,Lunavada,Hindu,Housewife,,1-2020
+Mahisagar,Lunavada,Lunavada,26,27/01/2020,19/01/2020,F,75,Lunavada,Hindu,Housewife,,1-2020
+Mahisagar,Lunavada,Lunavada,27,27/01/2020,23/01/2020,F,76,Lunavada,Hindu,Housewife,,1-2020
+Mahisagar,Lunavada,Lunavada,28,28/01/2020,19/01/2020,M,88,Lunavada,Islam,Retire,,1-2020
+Mahisagar,Lunavada,Lunavada,29,28/01/2020,23/01/2020,F,80,Lunavada,Hindu,Housewife,,1-2020
+Mahisagar,Lunavada,Lunavada,30,30/01/2020,29/01/2020,M,88,Lunavada,Hindu,Retire,,1-2020
+Mahisagar,Lunavada,Lunavada,31,31/01/2020,291/2020,M,60,Lilavati Hospital Lunawada,Hindu,Kheti,,1-2020
+Mahisagar,Lunavada,Lunavada,32,31/01/2020,27/01/2020,F,50,Lunavada,Islam,Housewife,,1-2020
+Mahisagar,Lunavada,Lunavada,33,21/01/2020,31/01/2020,M,83,Lunavada,Hindu,Retire,,1-2020
+Mahisagar,Lunavada,Lunavada,34,02/01/2020,21/01/2020,M,53,Lunavada,Hindu,Garrage,,1-2020
+Mahisagar,Lunavada,Lunavada,35,02/01/2020,30/01/2020,M,45,Lilavati Hospital Lunawada,Hindu,Kheti,,1-2020
+Mahisagar,Lunavada,Lunavada,36,02/03/2020,02/02/2020,F,90,Lunavada,Islam,Retire,,3-2020
+Mahisagar,Lunavada,Lunavada,37,02/06/2020,02/05/2020,M,72,Lunavada,Hindu,Retire,,6-2020
+Mahisagar,Lunavada,Lunavada,38,02/06/2020,24/01/2020,M,72,Lunavada,Islam,Retire,,6-2020
+Mahisagar,Lunavada,Lunavada,39,02/06/2020,06/10/2003,F,75,Lunavada,Islam,Retire,,6-2020
+Mahisagar,Lunavada,Lunavada,40,02/07/2020,31/01/2020,M,68,Shraddha Com. Lunavada,Hindu,Retire,,7-2020
+Mahisagar,Lunavada,Lunavada,41,02/07/2020,28/01/2020,M,60,Shraddha Com. Lunavada,Hindu,Kheti,,7-2020
+Mahisagar,Lunavada,Lunavada,42,02/10/2020,18/01/2020,M,74,"Aastha Hospital,Lunavada",Hindu,Business,,10-2020
+Mahisagar,Lunavada,Lunavada,43,19/02/2020,02/07/2020,F,70,Lunavada,Islam,Housewife,,2-2020
+Mahisagar,Lunavada,Lunavada,44,02/12/2020,02/02/2020,M,90,Lunavada,Islam,Retire,,12-2020
+Mahisagar,Lunavada,Lunavada,45,02/12/2020,24/01/2020,M,54,Lunavada,Hindu,Labour,,12-2020
+Mahisagar,Lunavada,Lunavada,46,02/12/2020,15/01/2020,F,97,Lunavada,Hindu,Housewife,,12-2020
+Mahisagar,Lunavada,Lunavada,47,02/12/2020,15/01/2020,M,60,Lunavada,Hindu,Labour,,12-2020
+Mahisagar,Lunavada,Lunavada,48,13/02/2020,02/09/2020,F,81,Lunavada,Hindu,Ritayard,,2-2020
+Mahisagar,Lunavada,Lunavada,49,13/02/2020,31/01/2020,M,68,Shardha Hospital,Hindu,Ritayard,,2-2020
+Mahisagar,Lunavada,Lunavada,50,13/02/2020,07/02/2020,M,61,Lunavada,Hindu,Nivrut Techer,,2-2020
+Mahisagar,Lunavada,Lunavada,51,14/02/2020,08/02/2020,F,61,Lunavada,Hindu,Gharkam,,2-2020
+Mahisagar,Lunavada,Lunavada,52,14/02/2020,13/02/2020,F,83,Lunavada,Hindu,Gharkam,,2-2020
+Mahisagar,Lunavada,Lunavada,53,14/02/2020,19/02/2020,F,65,Lunavada,Islam,Gharkam,,2-2020
+Mahisagar,Lunavada,Lunavada,54,17/02/2020,13/02/2020,F,80,Lunavada,Hindu,Gharkam,,2-2020
+Mahisagar,Lunavada,Lunavada,55,17/03/2020,20/01/2020,F,54,Lunavada,Hindu,Gharkam,,3-2020
+Mahisagar,Lunavada,Lunavada,56,18/02/2020,03/02/2020,M,70,Lilavati Hospital Lunawada,Islam,Gharkam,,2-2020
+Mahisagar,Lunavada,Lunavada,57,18/02/2020,04/02/2020,M,82,Lilavati Hospital Lunawada,Hindu,Kheti,,2-2020
+Mahisagar,Lunavada,Lunavada,58,19/02/2020,12/02/2020,F,80,Lunavada,Islam,Gharkam,,2-2020
+Mahisagar,Lunavada,Lunavada,59,20/02/2020,11/02/2020,M,38,Shraddha Hospital,Hindu,Kehti,,2-2020
+Mahisagar,Lunavada,Lunavada,60,24/02/2020,19/02/2020,F,85,Lunavada,Hindu,Gharkam,,2-2020
+Mahisagar,Lunavada,Lunavada,61,24/02/2020,20/02/2020,M,84,Lunavada,Hindu,Nivrut ,,2-2020
+Mahisagar,Lunavada,Lunavada,62,24/02/2020,16/02/2020,F,60,Lunavada,Hindu,Majuri,,2-2020
+Mahisagar,Lunavada,Lunavada,63,24/02/2020,08/02/2020,F,38,Lunavada,Islam,Gharkam,,2-2020
+Mahisagar,Lunavada,Lunavada,64,24/02/2020,21/02/2020,F,72,Lunavada,Hindu,Gharkam,,2-2020
+Mahisagar,Lunavada,Lunavada,65,25/02/2020,20/02/2020,M,85,Lunavada,Islam,Nivrut,,2-2020
+Mahisagar,Lunavada,Lunavada,66,25/02/2020,20/02/2020,M,,Lunavada,Hindu,Nivrut,,2-2020
+Mahisagar,Lunavada,Lunavada,67,25/02/2020,21/02/2020,M,73,Lunavada,Islam,Nivrut,,2-2020
+Mahisagar,Lunavada,Lunavada,68,25/02/2020,24/02/2020,M,36,Lunavada,Hindu,Majuri,,2-2020
+Mahisagar,Lunavada,Lunavada,69,25/02/2020,25/02/2020,M,48,Lilavati Hospital Lunawada,Hindu,Kheti,,2-2020
+Mahisagar,Lunavada,Lunavada,70,25/02/2020,18/02/2020,M,70,Lilavati Hospital Lunawada,Islam,Nivrut,,2-2020
+Mahisagar,Lunavada,Lunavada,71,29/02/2020,08/02/2020,F,76,Lunavada,Hindu,Gharkam,,2-2020
+Mahisagar,Lunavada,Lunavada,72,03/03/2020,27/02/2020,M,60,Lunavada,Islam,Majuri,,3-2020
+Mahisagar,Lunavada,Lunavada,73,04/03/2020,27/02/2020,M,85,Lunavada,Islam,Majuri,,3-2020
+Mahisagar,Lunavada,Lunavada,74,05/03/2020,05/02/2020,M,40,Lunavada,Hindu,Majuri,,3-2020
+Mahisagar,Lunavada,Lunavada,75,06/03/2020,04/03/2020,M,60,Lunavada,Hindu,Majuri,,3-2020
+Mahisagar,Lunavada,Lunavada,76,07/03/2020,07/07/1986,M,50,Lunavada,Islam,Dhandho,,3-2020
+Mahisagar,Lunavada,Lunavada,77,07/03/2020,29/02/2020,F,64,"Aastha Hospital,Lunavada",Hindu,Gharkam,,3-2020
+Mahisagar,Lunavada,Lunavada,78,12/03/2020,16/02/2020,M,80,Lunavada,Hindu,Nivrut,,3-2020
+Mahisagar,Lunavada,Lunavada,79,13/03/2020,03/06/2003,F,72,Lunavada,Hindu,Gharkam,,3-2020
+Mahisagar,Lunavada,Lunavada,80,13/03/2020,10/03/2020,M,43,Lunavada,Hindu,Majuri,,3-2020
+Mahisagar,Lunavada,Lunavada,81,16/03/2020,15/03/2020,M,60,Lunavada,Hindu,Nivrut,,3-2020
+Mahisagar,Lunavada,Lunavada,82,16/03/2020,03/03/2020,M,18,Lilavati Hospital Lunawada,Hindu,Kehti,,3-2020
+Mahisagar,Lunavada,Lunavada,83,16/03/2020,13/03/2020,M,46,Lilavati Hospital Lunawada,Hindu,Nokri,,3-2020
+Mahisagar,Lunavada,Lunavada,84,17/03/2020,08/03/2020,M,65,Lunavada,Islam,Nivrut,,3-2020
+Mahisagar,Lunavada,Lunavada,85,18/03/2020,17/03/2020,M,73,Lunavada,Hindu,Nivrut,,3-2020
+Mahisagar,Lunavada,Lunavada,86,19/03/2020,13/03/2020,M,70,Bhakti Hospital,Hindu,Kehti,,3-2020
+Mahisagar,Lunavada,Lunavada,87,19/03/2020,28/02/2020,M,58,Lunavada,Hindu,Majuri,,3-2020
+Mahisagar,Lunavada,Lunavada,88,20/03/2020,15/03/2020,M,90,Lunavada,Hindu,Nivrut,,3-2020
+Mahisagar,Lunavada,Lunavada,89,20/03/2020,18/03/2020,M,76,Lunavada,Hindu,Majuri,,3-2020
+Mahisagar,Lunavada,Lunavada,90,24/03/2020,22/03/2020,M,54,Lunavada,Hindu,Nivrut,,3-2020
+Mahisagar,Lunavada,Lunavada,91,30/03/2020,22/03/2020,F,69,Lunavada,Islam,Gharkam,,3-2020
+Mahisagar,Lunavada,Lunavada,92,30/03/2020,19/03/2020,F,65,Bhakti Hospital,Hindu,Majuri,,3-2020
+Mahisagar,Lunavada,Lunavada,93,31/03/2020,16/03/2020,F,62,Lunavada,Hindu,Housewife,,3-2020
+Mahisagar,Lunavada,Lunavada,94,04/04/2020,18/03/2020,M,40,Krishna Hospital,Hindu,Nokri,,4-2020
+Mahisagar,Lunavada,Lunavada,95,07/04/2020,08/03/2020,M,42,Lunavada,Hindu,Nokri,,4-2020
+Mahisagar,Lunavada,Lunavada,96,08/04/2020,16/03/2020,M,74,Lunavada,Hindu,Katlari Vepar,,4-2020
+Mahisagar,Lunavada,Lunavada,97,09/04/2020,07/04/2020,M,55,Lunavada,Hindu,Nivrut,,4-2020
+Mahisagar,Lunavada,Lunavada,98,09/04/2020,28/03/2020,M,50,Lunavada,Islam,Frout Lari,,4-2020
+Mahisagar,Lunavada,Lunavada,99,13/04/2020,07/04/2020,M,58,Lunavada,Hindu,Nokri,,4-2020
+Mahisagar,Lunavada,Lunavada,100,13/04/2020,10/04/2020,M,51,Lunavada,Hindu,Majuri,,4-2020
+Mahisagar,Lunavada,Lunavada,101,13/04/2020,07/04/2020,M,70,Lilavati Hospital Lunawada,Hindu,,,4-2020
+Mahisagar,Lunavada,Lunavada,102,15/04/2020,23/03/2020,M,78,Lunavada,Hindu,Ritayard,,4-2020
+Mahisagar,Lunavada,Lunavada,103,15/04/2020,16/03/2020,M,76,Sifa Hospital,Islam,Nokri,,4-2020
+Mahisagar,Lunavada,Lunavada,104,15/04/2020,06/04/2020,M,55,Junral Hospital,Hindu,Kheti,,4-2020
+Mahisagar,Lunavada,Lunavada,105,15/04/2020,13/04/2020,F,24,Lunavada,Hindu,Gharkam,,4-2020
+Mahisagar,Lunavada,Lunavada,106,15/04/2020,28/03/2020,M,72,Lunavada,Islam,Nivrut,,4-2020
+Mahisagar,Lunavada,Lunavada,107,16/04/2020,04/04/2020,M,48,Lunavada,Hindu,Stamp Vendar,,4-2020
+Mahisagar,Lunavada,Lunavada,108,17/04/2020,14/04/2020,F,64,Lunavada,Hindu,Gharkam,,4-2020
+Mahisagar,Lunavada,Lunavada,109,17/04/2020,07/04/2020,F,93,Lunavada,Hindu,Nivrut,,4-2020
+Mahisagar,Lunavada,Lunavada,110,20/04/2020,25/04/2020,M,85,Lilavati Hospital Lunawada,Hindu,Kheti,,4-2020
+Mahisagar,Lunavada,Lunavada,111,20/04/2020,10/04/2020,M,17,Lunavada,Islam,School,,4-2020
+Mahisagar,Lunavada,Lunavada,112,21/04/2020,28/03/2020,F,58,Lunavada,Hindu,Gharkam,,4-2020
+Mahisagar,Lunavada,Lunavada,113,23/04/2020,13/04/2020,M,33,Lunavada,Islam,Majuri,,4-2020
+Mahisagar,Lunavada,Lunavada,114,24/04/2020,15/04/2020,M,70,"Aastha Hospital,Lunavada",Hindu,Kheti,,4-2020
+Mahisagar,Lunavada,Lunavada,115,27/04/2020,15/04/2020,M,74,Lunavada,Islam,Chutak Vepar,,4-2020
+Mahisagar,Lunavada,Lunavada,116,27/04/2020,08/04/2020,M,28,Lunavada,Islam,Majuri,,4-2020
+Mahisagar,Lunavada,Lunavada,117,29/04/2020,18/04/2020,M,38,Lunavada,Hindu,Majuri,,4-2020
+Mahisagar,Lunavada,Lunavada,118,29/04/2020,25/04/2020,M,88,Lilavati Hospital Lunawada,Hindu,Kheti,,4-2020
+Mahisagar,Lunavada,Lunavada,119,02/05/2020,26/04/2020,M,75,Lunavada,Islam,Dhandho,,5-2020
+Mahisagar,Lunavada,Lunavada,120,04/05/2020,26/04/2020,F,87,Lunavada,Islam,Gharkam,,5-2020
+Mahisagar,Lunavada,Lunavada,121,05/05/2020,04/05/2020,F,60,Lunavada,Hindu,Majuri,,5-2020
+Mahisagar,Lunavada,Lunavada,122,07/05/2020,25/04/2020,M,60,Lunavada,Hindu,Kheti,,5-2020
+Mahisagar,Lunavada,Lunavada,123,08/05/2020,05/05/2020,F,95,Lunavada,Hindu,Gharkam,,5-2020
+Mahisagar,Lunavada,Lunavada,124,11/05/2020,02/05/2020,F,54,Lunavada,Hindu,Gharkam,,5-2020
+Mahisagar,Lunavada,Lunavada,125,13/05/2020,13/05/2020,M,92,Lunavada,Hindu,Nivrut,,5-2020
+Mahisagar,Lunavada,Lunavada,126,16/05/2020,15/05/2020,M,61,Lunavada,Hindu,Kadiy Kam,,5-2020
+Mahisagar,Lunavada,Lunavada,127,18/05/2020,16/05/2020,F,83,Lunavada,Hindu,Gharkam,,5-2020
+Mahisagar,Lunavada,Lunavada,128,18/05/2020,16/05/2020,F,70,Lunavada,Hindu,Majuri,,5-2020
+Mahisagar,Lunavada,Lunavada,129,19/05/2020,16/05/2020,M,50,Lunavada,Hindu,Nivrut,,5-2020
+Mahisagar,Lunavada,Lunavada,130,19/05/2020,17/05/2020,M,76,Lunavada,Islam,Nivrut,,5-2020
+Mahisagar,Lunavada,Lunavada,131,19/05/2020,17/05/2020,F,77,Shardha Hospital,Islam,Gharkam,,5-2020
+Mahisagar,Lunavada,Lunavada,132,19/05/2020,06/05/2020,F,90,Lunavada,Islam,Majuri,,5-2020
+Mahisagar,Lunavada,Lunavada,133,20/05/2020,18/05/2020,M,78,Navakasba,Hindu,Nivrut,,5-2020
+Mahisagar,Lunavada,Lunavada,134,26/05/2020,29/05/2020,F,61,Lunavada,Hindu,Nivrut,,5-2020
+Mahisagar,Lunavada,Lunavada,135,26/05/2020,17/05/2020,M,53,Lunavada,Islam,Majuri,,5-2020
+Mahisagar,Lunavada,Lunavada,136,26/05/2020,27/04/2020,M,20,Lunavada,Islam,School,,5-2020
+Mahisagar,Lunavada,Lunavada,137,27/05/2020,14/05/2020,M,70,Lunavada,Islam,Majuri,,5-2020
+Mahisagar,Lunavada,Lunavada,138,27/05/2020,23/05/2020,F,83,Lunavada,Hindu,Gharkam,,5-2020
+Mahisagar,Lunavada,Lunavada,139,28/05/2020,24/05/2020,M,59,Lunavada,Hindu,Majuri,,5-2020
+Mahisagar,Lunavada,Lunavada,140,29/05/2020,27/05/2020,F,69,Lunavada,Hindu,Gharkam,,5-2020
+Mahisagar,Lunavada,Lunavada,141,01/06/2020,11/05/2020,M,79,Lunavada,Islam,Nivrut,,6-2020
+Mahisagar,Lunavada,Lunavada,142,03/06/2020,03/05/2020,F,65,Lunavada,Islam,Gharkam,,6-2020
+Mahisagar,Lunavada,Lunavada,143,03/06/2020,29/05/2020,F,73,Lunavada,Islam,Gharkam,,6-2020
+Mahisagar,Lunavada,Lunavada,144,03/06/2020,02/06/2020,M,52,Lunavada,Islam,Majuri,,6-2020
+Mahisagar,Lunavada,Lunavada,145,03/06/2020,18/05/2020,M,70,Lunavada,Islam,Nivrut,,6-2020
+Mahisagar,Lunavada,Lunavada,146,04/06/2020,01/06/2020,M,49,Lunavada,Hindu,Majuri,,6-2020
+Mahisagar,Lunavada,Lunavada,147,05/06/2020,19/05/2020,F,59,Lunavada,Islam,Gharkam,,6-2020
+Mahisagar,Lunavada,Lunavada,148,06/06/2020,21/06/2020,M,77,Lunavada,Islam,Nivrut,,6-2020
+Mahisagar,Lunavada,Lunavada,149,08/06/2020,01/06/2020,M,87,Lunavada,Islam,Nivrut,,6-2020
+Mahisagar,Lunavada,Lunavada,150,11/05/2020,04/06/2020,F,77,Lunavada,Hindu,Kheti,,5-2020
+Mahisagar,Lunavada,Lunavada,151,11/06/2020,17/03/2020,M,26,Junral Hospital,Hindu,Kheti,,6-2020
+Mahisagar,Lunavada,Lunavada,152,12/06/2020,18/04/2020,F,33,Lunavada,Hindu,Gharkam,,6-2020
+Mahisagar,Lunavada,Lunavada,153,15/06/2020,28/05/2020,F,96,Lunavada,Hindu,Nivrut,,6-2020
+Mahisagar,Lunavada,Lunavada,154,15/06/2020,08/06/2020,M,73,Lunavada,Islam,Vepar,,6-2020
+Mahisagar,Lunavada,Lunavada,155,15/06/2020,08/06/2020,F,85,Lunavada,Islam,Gharkam,,6-2020
+Mahisagar,Lunavada,Lunavada,156,15/06/2020,09/06/2020,M,35,Lunavada,Hindu,Majuri,,6-2020
+Mahisagar,Lunavada,Lunavada,157,15/06/2020,13/06/2020,M,60,Lunavada,Hindu,Chutak Vepar,,6-2020
+Mahisagar,Lunavada,Lunavada,158,16/06/2020,11/06/2020,F,70,Lunavada,Hindu,Gharkam,,6-2020
+Mahisagar,Lunavada,Lunavada,159,17/06/2020,01/07/2020,F,65,Lunavada,Hindu,Gharkam,,6-2020
+Mahisagar,Lunavada,Lunavada,160,19/06/2020,09/06/2020,F,74,Lunavada,Islam,Gharkam,,6-2020
+Mahisagar,Lunavada,Lunavada,161,19/06/2020,12/11/2019,M,45,Lunavada,Islam,Majuri,,6-2020
+Mahisagar,Lunavada,Lunavada,162,19/06/2020,04/06/2020,M,85,Lunavada,Islam,Majuri,,6-2020
+Mahisagar,Lunavada,Lunavada,163,19/06/2020,13/05/2020,M,20,Junral Hospital,Hindu,Majuri,,6-2020
+Mahisagar,Lunavada,Lunavada,164,19/06/2020,23/03/2020,M,40,Lunavada,Hindu,Majuri,,6-2020
+Mahisagar,Lunavada,Lunavada,165,20/06/2020,01/06/2020,F,80,Lunavada,Hindu,Gharkam,,6-2020
+Mahisagar,Lunavada,Lunavada,166,22/06/2020,15/06/2020,M,71,Lunavada,Islam,Gharkam,,6-2020
+Mahisagar,Lunavada,Lunavada,167,22/06/2020,21/06/2020,M,45,Lunavada,Hindu,Vepar,,6-2020
+Mahisagar,Lunavada,Lunavada,168,25/06/2020,18/06/2020,F,90,Lunavada,Hindu,Nivrut,,6-2020
+Mahisagar,Lunavada,Lunavada,169,25/06/2020,24/06/2020,F,69,Lunavada,Islam,Gharkam,,6-2020
+Mahisagar,Lunavada,Lunavada,170,29/06/2020,27/06/2020,M,40,Lunavada,Hindu,,,6-2020
+Mahisagar,Lunavada,Lunavada,171,30/06/2020,23/06/2020,F,65,Lunavada,Islam,Gharkam,,6-2020
+Mahisagar,Lunavada,Lunavada,172,30/06/2020,04/03/2020,M,46,Lunavada,Hindu,Majuri,,6-2020
+Mahisagar,Lunavada,Lunavada,173,30/06/2020,03/06/2020,F,69,Lunavada,Hindu,Gharkam,,6-2020
+Mahisagar,Lunavada,Lunavada,174,01/07/2020,30/06/2020,M,80,Lunavada,Islam,Nivrut,,7-2020
+Mahisagar,Lunavada,Lunavada,175,01/07/2020,30/06/2020,F,59,Lunavada,Islam,Gharkam,,7-2020
+Mahisagar,Lunavada,Lunavada,176,01/07/2020,14/06/2020,M,63,Lunavada,Islam,Nivrut,,7-2020
+Mahisagar,Lunavada,Lunavada,177,04/09/2020,16/06/2020,F,66,Lunavada,Hindu,Gharkam,,9-2020
+Mahisagar,Lunavada,Lunavada,178,04/09/2020,02/07/2020,M,66,Lunavada,Hindu,Majuri,,9-2020
+Mahisagar,Lunavada,Lunavada,179,04/09/2020,08/05/2020,M,40,Lilavati Hospital Lunawada,Hindu,Kheti,,9-2020
+Mahisagar,Lunavada,Lunavada,180,04/09/2020,30/05/2020,M,18,Lilavati Hospital Lunawada,Hindu,Kheti,,9-2020
+Mahisagar,Lunavada,Lunavada,181,04/05/2020,05/06/2020,M,28,Lilavati Hospital Lunawada,Hindu,Kheti,,5-2020
+Mahisagar,Lunavada,Lunavada,182,04/05/2020,06/06/2020,F,75,Lilavati Hospital Lunawada,,Kheti,,5-2020
+Mahisagar,Lunavada,Lunavada,183,04/05/2020,19/06/2020,F,50,Lilavati Hospital Lunawada,Hindu,Kheti,,5-2020
+Mahisagar,Lunavada,Lunavada,184,04/05/2020,29/06/2020,F,68,Lilavati Hospital Lunawada,Hindu,Kheti,,5-2020
+Mahisagar,Lunavada,Lunavada,185,07/06/2020,21/03/2020,M,45,Lunavada,Hindu,Majuri,,6-2020
+Mahisagar,Lunavada,Lunavada,186,07/06/2020,21/06/2020,M,70,Lunavada,Hindu,Kadiy Kam,,6-2020
+Mahisagar,Lunavada,Lunavada,187,07/06/2020,03/04/2020,F,66,Lunavada,Islam,Gharkam,,6-2020
+Mahisagar,Lunavada,Lunavada,188,08/07/2020,30/06/2020,F,88,Lunavada,Islam,Gharkam,,7-2020
+Mahisagar,Lunavada,Lunavada,189,08/07/2020,06/07/2020,M,54,Lunavada,Islam,Nivrut,,7-2020
+Mahisagar,Lunavada,Lunavada,190,08/07/2020,06/07/2020,M,83,Lunavada,Islam,Nivrut,,7-2020
+Mahisagar,Lunavada,Lunavada,191,09/07/2020,06/07/2020,M,80,Lilavati Hospital Lunawada,Hindu,Nivrut,,7-2020
+Mahisagar,Lunavada,Lunavada,192,10/07/2020,09/07/2020,M,50,Lunavada,Hindu,Majuri,,7-2020
+Mahisagar,Lunavada,Lunavada,193,10-077-2020,18/05/2020,M,74,Lunavada,Islam,Majuri,,#VALUE!
+Mahisagar,Lunavada,Lunavada,194,13/07/2020,10/07/2020,M,65,Lunavada,Islam,Majuri,,7-2020
+Mahisagar,Lunavada,Lunavada,195,14/07/2020,09/07/2020,M,55,Junral Hospital,Hindu,Ritayard,,7-2020
+Mahisagar,Lunavada,Lunavada,196,14/07/2020,28/06/2020,M,63,Lunavada,Islam,Vepar,,7-2020
+Mahisagar,Lunavada,Lunavada,197,14/07/2020,12/07/2020,F,38,Bhakti Hospital,Islam,Housewife,,7-2020
+Mahisagar,Lunavada,Lunavada,198,18/07/2020,13/07/2020,M,84,Lunavada,Hindu,Nivrut,,7-2020
+Mahisagar,Lunavada,Lunavada,199,20/07/2020,06/07/2020,M,90,Lunavada,Islam,Footwear,,7-2020
+Mahisagar,Lunavada,Lunavada,200,20/07/2020,24/06/2020,M,74,Lunavada,Islam,Parchuran Dhandho,,7-2020
+Mahisagar,Lunavada,Lunavada,201,22/07/2020,17/07/2020,F,72,Lunavada,Hindu,Gharkam,,7-2020
+Mahisagar,Lunavada,Lunavada,202,23/07/2020,09/07/2020,F,55,Lunavada,Hindu,Gharkam,,7-2020
+Mahisagar,Lunavada,Lunavada,203,23/07/2020,19/07/2020,M,26,Lunavada,Islam,Nokri,,7-2020
+Mahisagar,Lunavada,Lunavada,204,23/07/2020,20/05/2019,M,72,Lunavada,Hindu,Nivrut,,7-2020
+Mahisagar,Lunavada,Lunavada,205,24/07/2020,15/07/2020,M,50,Junral Hospital,Hindu,Majuri,,7-2020
+Mahisagar,Lunavada,Lunavada,206,24/07/2020,16/07/2020,F,1 Days,Junral Hospital,Hindu,Majuri,,7-2020
+Mahisagar,Lunavada,Lunavada,207,24/07/2020,22/07/2020,F,71,Lunavada,Islam,Gharkam,,7-2020
+Mahisagar,Lunavada,Lunavada,208,24/07/2020,22/07/2020,M,83,Lunavada,Hindu,Nivrut,,7-2020
+Mahisagar,Lunavada,Lunavada,209,27/07/2020,24/07/2020,M,81,Junral Hospital,Hindu,Nivrut,,7-2020
+Mahisagar,Lunavada,Lunavada,210,27/07/2020,02/07/2020,F,85,Lunavada,Islam,Gharkam,,7-2020
+Mahisagar,Lunavada,Lunavada,211,27/07/2020,19/07/2020,F,78,Lunavada,Hindu,Gharkam,,7-2020
+Mahisagar,Lunavada,Lunavada,212,28/07/2020,21/06/2020,F,87,Lunavada,Hindu,Vepar,,7-2020
+Mahisagar,Lunavada,Lunavada,213,30/07/2020,27/07/2020,M,55,Lunavada,Hindu,Vepar,,7-2020
+Mahisagar,Lunavada,Lunavada,214,30/07/2020,22/11/2019,M,74,Lunavada,Islam,Gharkam,,7-2020
+Mahisagar,Lunavada,Lunavada,215,31/07/2020,20/07/2020,F,44,Lunavada,Islam,Gharkam,,7-2020
+Mahisagar,Lunavada,Lunavada,216,31/07/2020,24/07/2020,M,81,Lunavada,Islam,Nivrut,,7-2020
+Mahisagar,Lunavada,Lunavada,217,31/07/2020,29/07/2020,M,83,Lunavada,Hindu,Nivrut,,7-2020
+Mahisagar,Lunavada,Lunavada,218,04/08/2020,28/07/2020,F,61,Lunavada,Hindu,Gharkam,,8-2020
+Mahisagar,Lunavada,Lunavada,219,05/08/2020,02/08/2020,M,54,Lunavada,Islam,Majuri,,8-2020
+Mahisagar,Lunavada,Lunavada,220,06/08/2020,31/07/2020,M,80,Lunavada,Hindu,Kheti,,8-2020
+Mahisagar,Lunavada,Lunavada,221,06/08/2020,02/08/2020,M,75,Lunavada,Islam,Majuri,,8-2020
+Mahisagar,Lunavada,Lunavada,222,06/08/2020,31/07/2020,M,30,Lunavada,Hindu,Majuri,,8-2020
+Mahisagar,Lunavada,Lunavada,223,07/08/2020,26/07/2020,M,56,Lunavada,Hindu,Soni Jeweelrs,,8-2020
+Mahisagar,Lunavada,Lunavada,224,11/08/2020,23/07/2020,F,77,Lunavada,Hindu,Gharkam,,8-2020
+Mahisagar,Lunavada,Lunavada,225,11/08/2020,05/08/2020,M,52,Junral Hospital,Hindu,Majuri,,8-2020
+Mahisagar,Lunavada,Lunavada,226,11/08/2020,07/08/2020,F,10,Junral Hospital,Hindu,Majuri,,8-2020
+Mahisagar,Lunavada,Lunavada,227,13/08/2020,10/08/2020,M,35,Lunavada,Hindu,Nokri,,8-2020
+Mahisagar,Lunavada,Lunavada,228,13/08/2020,10/08/2020,M,88,Lunavada,Hindu,Nivrut Techer,,8-2020
+Mahisagar,Lunavada,Lunavada,229,14/08/2020,10/08/2020,F,44,Lunavada,Islam,Gharkam,,8-2020
+Mahisagar,Lunavada,Lunavada,230,14/08/2020,11/08/2020,M,56,Lunavada,Islam,Dravind,,8-2020
+Mahisagar,Lunavada,Lunavada,231,17/08/2020,10/08/2020,M,26,Lunavada,Islam,Vepar,,8-2020
+Mahisagar,Lunavada,Lunavada,232,17/08/2020,13/08/2020,M,40,Lunavada,Hindu,Majuri,,8-2020
+Mahisagar,Lunavada,Lunavada,233,18/08/2020,16/08/2020,F,89,Lunavada,Hindu,Gharkam,,8-2020
+Mahisagar,Lunavada,Lunavada,234,18/08/2020,15/08/2020,M,70,Lunavada,Hindu,Majuri,,8-2020
+Mahisagar,Lunavada,Lunavada,235,18/08/2020,15/08/2020,M,60,Lunavada,Hindu,Majuri,,8-2020
+Mahisagar,Lunavada,Lunavada,236,18/08/2020,16/08/2020,F,35,Lilavati Hospital Lunawada,Hindu,Kheti,,8-2020
+Mahisagar,Lunavada,Lunavada,237,19/08/2020,16/08/2020,M,25,Bhakti Hospital,Hindu,Kheti,,8-2020
+Mahisagar,Lunavada,Lunavada,238,19/08/2020,18/08/2020,M,48,Lilavati Hospital Lunawada,Hindu,Kheti,,8-2020
+Mahisagar,Lunavada,Lunavada,239,20/08/2020,10/08/2020,F,95,Lunavada,Islam,Nivrut,,8-2020
+Mahisagar,Lunavada,Lunavada,240,21/08/2020,17/08/2020,M,79,Lunavada,Islam,Nivrut,,8-2020
+Mahisagar,Lunavada,Lunavada,241,21/08/2020,18/08/2020,F,79,Lunavada,Hindu,Gharkam,,8-2020
+Mahisagar,Lunavada,Lunavada,242,25/08/2020,19/08/2020,F,47,Lunavada,Hindu,Gharkam,,8-2020
+Mahisagar,Lunavada,Lunavada,243,25/08/2020,21/08/2020,M,72,Lunavada,Hindu,Ritayard,,8-2020
+Mahisagar,Lunavada,Lunavada,244,26/08/2020,22/08/2020,F,62,Lunavada,Hindu,Gharkam,,8-2020
+Mahisagar,Lunavada,Lunavada,245,26/08/2020,09/08/2020,M,68,Lunavada,Islam,Nivrut,,8-2020
+Mahisagar,Lunavada,Lunavada,246,28/08/2020,25/08/2020,F,65,Lunavada,Islam,Gharkam,,8-2020
+Mahisagar,Lunavada,Lunavada,247,29/08/2020,26/08/2020,M,62,Lilavati Hospital Lunawada,Hindu,Kheti,,8-2020
+Mahisagar,Lunavada,Lunavada,248,29/08/2020,28/08/2020,M,74,Lilavati Hospital Lunawada,Hindu,Nivrut Techer,,8-2020
+Mahisagar,Lunavada,Lunavada,249,31/08/2020,20/04/2020,M,40,Lunavada,Hindu,Majuri,,8-2020
+Mahisagar,Lunavada,Lunavada,250,31/08/2020,27/08/2020,F,68,Lunavada,Islam,Gharkam,,8-2020
+Mahisagar,Lunavada,Lunavada,251,31/08/2020,14/08/2020,M,34,Lunavada,Hindu,Majuri,,8-2020
+Mahisagar,Lunavada,Lunavada,252,01/09/2020,28/08/2020,F,56,Lunavada,Hindu,Gharkam,,9-2020
+Mahisagar,Lunavada,Lunavada,253,02/09/2020,31/08/2020,M,72,Lilavati Hospital Lunawada,Hindu,Nivrut,,9-2020
+Mahisagar,Lunavada,Lunavada,254,30/09/2020,31/08/2020,M,75,Lunavada,Islam,Nivrut,,9-2020
+Mahisagar,Lunavada,Lunavada,255,04/05/2020,21/08/2020,M,34,Lunavada,Hindu,Majuri,,5-2020
+Mahisagar,Lunavada,Lunavada,256,07/09/2020,21/09/2020,M,65,Lunavada,Hindu,Majuri,,9-2020
+Mahisagar,Lunavada,Lunavada,257,08/09/2020,27/08/2020,F,62,Lunavada,Hindu,Gharkam,,9-2020
+Mahisagar,Lunavada,Lunavada,258,10/09/2020,31/08/2020,M,70,Lunavada,Hindu,Majuri,,9-2020
+Mahisagar,Lunavada,Lunavada,259,11/09/2020,04/09/2020,M,42,Lilavati Hospital Lunawada,Hindu,Kheti,,9-2020
+Mahisagar,Lunavada,Lunavada,260,14/09/2020,16/07/2020,M,55,Kuna Karva Lunavada,Hindu,Kheti,,9-2020
+Mahisagar,Lunavada,Lunavada,261,14/09/2020,13/08/1964,F,56,Lunavada,Islam,Gharkam,,9-2020
+Mahisagar,Lunavada,Lunavada,262,14/09/2020,07/09/2020,M,44,Lunavada,Hindu,Majuri,,9-2020
+Mahisagar,Lunavada,Lunavada,263,14/09/2020,13/09/2020,F,65,Lunavada,Hindu,Gharkam,,9-2020
+Mahisagar,Lunavada,Lunavada,264,14/09/2020,03/09/2020,F,70,Lunavada,Islam,Gharkam,,9-2020
+Mahisagar,Lunavada,Lunavada,265,14/09/2020,15/08/2020,F,72,Lunavada,Hindu,Gharkam,,9-2020
+Mahisagar,Lunavada,Lunavada,266,15/09/2020,15/09/2020,M,30,Bhakti Hospital,Hindu,Majuri,,9-2020
+Mahisagar,Lunavada,Lunavada,267,15/09/2020,07/09/2020,M,66,Lunavada,Islam,Majuri,,9-2020
+Mahisagar,Lunavada,Lunavada,268,18/09/2020,15/09/2020,F,78,Lilavati Hospital Lunawada,Hindu,Nivrut Techer,,9-2020
+Mahisagar,Lunavada,Lunavada,269,18/09/2020,09/09/2020,M,81,Lilavati Hospital Lunawada,Islam,Nivrut Techer,,9-2020
+Mahisagar,Lunavada,Lunavada,270,18/09/2020,02/09/2020,M,48,Lunavada,Islam,Chutak Vepar,,9-2020
+Mahisagar,Lunavada,Lunavada,271,18/09/2020,16/09/2020,M,75,Lunavada,Islam,Nivrut,,9-2020
+Mahisagar,Lunavada,Lunavada,272,21/09/2020,30/08/2020,M,44,Lunavada,Islam,Shakbhaji Dhandho,,9-2020
+Mahisagar,Lunavada,Lunavada,273,21/09/2020,27/09/2020,M,54,Lunavada,Hindu,Suthari Kam,,9-2020
+Mahisagar,Lunavada,Lunavada,274,21/09/2020,20/09/2020,M,54,Lunavada,Hindu,Majuri,,9-2020
+Mahisagar,Lunavada,Lunavada,275,22/09/2020,17/09/2020,F,68,Lunavada,Hindu,Gharkam,,9-2020
+Mahisagar,Lunavada,Lunavada,276,22/09/2020,22/09/2020,M,36,Lilavati Hospital Lunawada,Hindu,Kheti,,9-2020
+Mahisagar,Lunavada,Lunavada,277,23/09/2020,10/09/2020,F,82,Lunavada,Hindu,Gharkam,,9-2020
+Mahisagar,Lunavada,Lunavada,278,24/09/2020,22/09/2020,M,77,Lunavada,Hindu,Shakbhaji Dhandho,,9-2020
+Mahisagar,Lunavada,Lunavada,279,24/09/2020,17/09/2020,F,60,Lunavada,Hindu,Gharkam,,9-2020
+Mahisagar,Lunavada,Lunavada,280,25/09/2020,22/09/2020,F,54,Lunavada,Hindu,Gharkam,,9-2020
+Mahisagar,Lunavada,Lunavada,281,25/09/2020,21/09/2020,F,61,Lunavada,Islam,Gharkam,,9-2020
+Mahisagar,Lunavada,Lunavada,282,28/09/2020,23/09/2020,F,53,Lunavada,Hindu,Gharkam,,9-2020
+Mahisagar,Lunavada,Lunavada,283,29/09/2020,26/09/2020,M,43,Lunavada,Hindu,Friz Reparing,,9-2020
+Mahisagar,Lunavada,Lunavada,284,30/09/2020,27/09/2020,F,64,Lunavada,Islam,Gharkam,,9-2020
+Mahisagar,Lunavada,Lunavada,285,05/09/2020,20/09/2020,M,31,Lunavada,Hindu,Driving,,9-2020
+Mahisagar,Lunavada,Lunavada,286,06/10/2020,03/10/2020,M,78,Lunavada,Hindu,Nivrut,,10-2020
+Mahisagar,Lunavada,Lunavada,287,06/10/2020,09/10/2020,F,98,Lunavada,Islam,Gharkam,,10-2020
+Mahisagar,Lunavada,Lunavada,288,07/10/2020,03/10/2020,F,48,Lunavada,Hindu,Gharkam,,10-2020
+Mahisagar,Lunavada,Lunavada,289,08/10/2020,02/10/2020,M,72,Lunavada,Islam,Nivrut,,10-2020
+Mahisagar,Lunavada,Lunavada,290,08/10/2020,09/10/2020,F,62,Lunavada,Hindu,Gharkam,,10-2020
+Mahisagar,Lunavada,Lunavada,291,08/10/2020,07/10/2020,M,83,Lunavada,Hindu,Majuri,,10-2020
+Mahisagar,Lunavada,Lunavada,292,09/10/2020,28/09/2020,M,80,Lunavada,Islam,Nivrut,,10-2020
+Mahisagar,Lunavada,Lunavada,293,12/10/2020,09/10/2020,M,72,Lunavada,Islam,Nivrut,,10-2020
+Mahisagar,Lunavada,Lunavada,294,13/10/2020,10/10/2020,F,59,Lunavada,Hindu,Gharkam,,10-2020
+Mahisagar,Lunavada,Lunavada,295,13/10/2020,11/10/2020,M,85,Lunavada,Islam,Nivrut,,10-2020
+Mahisagar,Lunavada,Lunavada,296,13/10/2020,09/10/2020,F,55,Lilavati Hospital Lunawada,Hindu,Gharkam,,10-2020
+Mahisagar,Lunavada,Lunavada,297,13/10/2020,12/10/2020,M,47,Lilavati Hospital Lunawada,Hindu,Kheti,,10-2020
+Mahisagar,Lunavada,Lunavada,298,13/10/2020,11/10/2020,F,94,Lunavada,Hindu,Nivrut,,10-2020
+Mahisagar,Lunavada,Lunavada,299,14/10/2020,16/05/2020,M,64,Lunavada,Islam,Vepar,,10-2020
+Mahisagar,Lunavada,Lunavada,300,14/10/2020,09/10/2020,M,80,Lunavada,Hindu,Sarkari Nivrut,,10-2020
+Mahisagar,Lunavada,Lunavada,301,14/10/2020,17/09/2019,M,60,Bhavsar Hospital Lunavada,Hindu,Retire,,10-2020
+Mahisagar,Lunavada,Lunavada,302,14/10/2020,21/11/2019,M,,Bhavsar Hospital Lunavada,Hindu,Kheti,,10-2020
+Mahisagar,Lunavada,Lunavada,303,17/10/2020,10/12/2020,M,85,Lunavada,Islami,Retire,,10-2020
+Mahisagar,Lunavada,Lunavada,304,17/10/2020,14/10/2020,M,55,Lunavada,Hindu,Labour,,10-2020
+Mahisagar,Lunavada,Lunavada,305,20/10/2020,16/10/2020,M,72,"Lilaviti Hospital, Lunavada",Hindu,Kheti,,10-2020
+Mahisagar,Lunavada,Lunavada,306,20/10/2020,19/10/2020,M,60,"Lilaviti Hospital, Lunavada",Hindu,Kheti,,10-2020
+Mahisagar,Lunavada,Lunavada,307,21/10/2020,23/09/2020,M,82,Lunavada,Hindu,Matikam,,10-2020
+Mahisagar,Lunavada,Lunavada,308,21/10/2020,23/09/2020,M,27,Lunavada,Hindu,Labour,,10-2020
+Mahisagar,Lunavada,Lunavada,309,21/10/2020,18/10/2020,M,86,Lunavada,Hindu,Retire,,10-2020
+Mahisagar,Lunavada,Lunavada,310,22/10/2020,16/10/2020,M,65,Lunavada,Hindu,Retire,,10-2020
+Mahisagar,Lunavada,Lunavada,311,22/10/2020,10/07/2020,M,52,Lunavada,Islami,driver,,10-2020
+Mahisagar,Lunavada,Lunavada,312,26/10/2020,10/11/2020,M,66,General Hospital Lunavada,Isa,,,10-2020
+Mahisagar,Lunavada,Lunavada,313,26/10/2020,17/10/2020,M,78,Lunavada,Hindu,Mochikam,,10-2020
+Mahisagar,Lunavada,Lunavada,314,27/10/2020,22/10/2020,F,74,Lunavada,Hindu,Housewife,,10-2020
+Mahisagar,Lunavada,Lunavada,315,28/10/2020,24/10/2020,F,84,Lunavada,Hindu,Retire,,10-2020
+Mahisagar,Lunavada,Lunavada,316,29/10/2020,24/10/2020,M,38,Lunavada,Hindu,Ferivepar,,10-2020
+Mahisagar,Lunavada,Lunavada,317,29/10/2020,23/10/2020,F,78,Lunavada,Isami,Housewife,,10-2020
+Mahisagar,Lunavada,Lunavada,318,11/03/2020,31/10/2020,M,62,Lunavada,Islami,Retire,,3-2020
+Mahisagar,Lunavada,Lunavada,319,11/04/2020,31/10/2020,F,43,Lunavada,Isami,Housewife,,4-2020
+Mahisagar,Lunavada,Lunavada,320,11/04/2020,31/10/2020,F,67,Lunavada,Hindu,Housewife,,4-2020
+Mahisagar,Lunavada,Lunavada,321,11/04/2020,29/10/2020,F,96,Lunavada,Hindu,Housewife,,4-2020
+Mahisagar,Lunavada,Lunavada,322,11/08/2020,11/01/2020,M,45,"Lilaviti Hospital, Lunavada",Hindu,Kheti,,8-2020
+Mahisagar,Lunavada,Lunavada,323,11/06/2020,11/04/2021,M,58,Lunavada,Hindu,Labour,,6-2020
+Mahisagar,Lunavada,Lunavada,324,11/06/2020,11/02/2020,M,57,Lunavada,Islami,Business,,6-2020
+Mahisagar,Lunavada,Lunavada,325,11/09/2020,26/10/2020,M,55,Lunavada,Islami,Darjikam,,9-2020
+Mahisagar,Lunavada,Lunavada,326,11/09/2020,11/04/2020,M,70,Lunavada,Islami,Business,,9-2020
+Mahisagar,Lunavada,Lunavada,327,11/08/2020,11/08/2020,M,83,"Bhakti Hospital, Lunavada",Hindu,Retire,,8-2020
+Mahisagar,Lunavada,Lunavada,328,11/10/2020,11/06/2020,M,60,"Lilaviti Hospital, Lunavada",Hindu,Kheti,,10-2020
+Mahisagar,Lunavada,Lunavada,329,11/10/2020,11/07/2020,F,80,"Lilaviti Hospital, Lunavada",Hindu,Kheti,,10-2020
+Mahisagar,Lunavada,Lunavada,330,11/11/2020,31/11/2020,M,22,General Hospital Lunavada,Hindu,Kheti,,11-2020
+Mahisagar,Lunavada,Lunavada,331,11/12/2020,11/07/2020,F,68,Lunavada,Hindu,,,12-2020
+Mahisagar,Lunavada,Lunavada,332,11/12/2020,11/10/2020,M,50,Lunavada,Hindu,Housewife,,12-2020
+Mahisagar,Lunavada,Lunavada,333,13/11/2020,11/12/2020,M,80,"Lilaviti Hospital, Lunavada",Hindu,,,11-2020
+Mahisagar,Lunavada,Lunavada,334,13/11/2020,11/10/2020,M,67,Lunavada,Hindu,Retire,,11-2020
+Mahisagar,Lunavada,Lunavada,335,17/11/2020,11/10/2020,M,61,Lunavada,Hindu,Retire,,11-2020
+Mahisagar,Lunavada,Lunavada,336,18/11/2020,11/09/2020,M,13,"Krishna Sergical Hospitl,Lunavada",Islami,Study,,11-2020
+Mahisagar,Lunavada,Lunavada,337,18/11/2020,16/11/2020,F,14,Bhavsar Hospital Lunavada,Hindu,Study,,11-2020
+Mahisagar,Lunavada,Lunavada,338,18/11/2020,17/11/2020,F,101,Lunavada,Hindu,Housewife,,11-2020
+Mahisagar,Lunavada,Lunavada,339,19/11/2020,11/11/2020,M,38,Lunavada,Hindu,,,11-2020
+Mahisagar,Lunavada,Lunavada,340,19/11/2020,11/11/2020,M,87,Lunavada,Hindu,Sonikam,,11-2020
+Mahisagar,Lunavada,Lunavada,341,19/11/2020,30/10/2020,M,40,Lunavada,Hindu,Service ,,11-2020
+Mahisagar,Lunavada,Lunavada,342,20/11/2020,13/11/2020,M,74,Lunavada,Hindu,Retire,,11-2020
+Mahisagar,Lunavada,Lunavada,343,20/11/2020,18/11/2020,M,76,Lunavada,Hindu,Retire,,11-2020
+Mahisagar,Lunavada,Lunavada,344,21/11/2020,14/11/2020,F,58,Lunavada,Hindu,Labour,,11-2020
+Mahisagar,Lunavada,Lunavada,345,21/11/2020,20/11/2020,F,82,Lunavada,Hindu,Housewife,,11-2020
+Mahisagar,Lunavada,Lunavada,346,23/10/2020,11/12/2020,M,59,"Bhakti Hospital, Lunavada",Hindu,Vepari,,10-2020
+Mahisagar,Lunavada,Lunavada,347,23/11/2020,13/11/2020,M,68,Lunavada,Hindu,Labour,,11-2020
+Mahisagar,Lunavada,Lunavada,348,23/11/2020,13/11/2020,M,59,Lunavada,Islami,Retire,,11-2020
+Mahisagar,Lunavada,Lunavada,349,24/11/2020,22/11/2020,M,39,Lunavada,Hindu,Service ,,11-2020
+Mahisagar,Lunavada,Lunavada,350,24/11/2020,21/11/2020,M,62,Lunavada,Islami,Retire,,11-2020
+Mahisagar,Lunavada,Lunavada,351,25/11/2020,16/11/2020,M,70,Lunavada,Islami,Labour,,11-2020
+Mahisagar,Lunavada,Lunavada,352,26/11/2020,29/10/2020,F,77,Lunavada,Islami,Retire,,11-2020
+Mahisagar,Lunavada,Lunavada,353,26/11/2020,17/11/2020,F,36,"Navjivan Hospital, Lunavada",Hindu,Housewife,,11-2020
+Mahisagar,Lunavada,Lunavada,354,26/11/2020,24/11/2020,F,65,"Lilaviti Hospital, Lunavada",Hindu,Kheti,,11-2020
+Mahisagar,Lunavada,Lunavada,355,26/11/2020,21/11/2020,M,88,Lunavada,Hindu,Retire,,11-2020
+Mahisagar,Lunavada,Lunavada,356,26/11/2020,11/11/2020,F,42,Lunavada,Islami,Housewife,,11-2020
+Mahisagar,Lunavada,Lunavada,357,27/11/2020,26/11/2020,F,48,"Bhakti Hospital, Lunavada",Hindu,Housewife,,11-2020
+Mahisagar,Lunavada,Lunavada,358,12/01/2020,28/11/2020,F,88,Lunavada,Hindu,Retire,,1-2020
+Mahisagar,Lunavada,Lunavada,359,12/01/2020,25/11/2020,M,40,Lunavada,Hindu,Labour,,1-2020
+Mahisagar,Lunavada,Lunavada,360,12/01/2020,27/11/2020,M,15,"Bhakti Hospital, Lunavada",Hindu,,,1-2020
+Mahisagar,Lunavada,Lunavada,361,12/01/2020,29/11/2020,M,60,Lunavada,Hindu,Kadiakam,,1-2020
+Mahisagar,Lunavada,Lunavada,362,21/12/2020,12/01/2020,M,75,Lunavada,Hindu,Vepari,,12-2020
+Mahisagar,Lunavada,Lunavada,363,12/03/2020,27/11/2020,M,90,Lunavada,Hindu,Labour,,3-2020
+Mahisagar,Lunavada,Lunavada,364,12/07/2020,12/03/2020,F,23,"Lilaviti Hospital, Lunavada",Hindu,Housewife,,7-2020
+Mahisagar,Lunavada,Lunavada,365,12/07/2020,12/05/2020,M,20,"Lilaviti Hospital, Lunavada",Hindu,Kheti,,7-2020
+Mahisagar,Lunavada,Lunavada,366,12/07/2020,12/07/2020,F,60,"Lilaviti Hospital, Lunavada",Hindu,Kheti,,7-2020
+Mahisagar,Lunavada,Lunavada,367,12/07/2020,12/04/2020,F,70,Lunavada,Islami,Retire,,7-2020
+Mahisagar,Lunavada,Lunavada,368,12/08/2020,12/01/2020,M,0,General Hospital Lunavada,Hindu,,,8-2020
+Mahisagar,Lunavada,Lunavada,369,12/09/2020,12/06/2020,M,19,Lunavada,Islami,Retire,,9-2020
+Mahisagar,Lunavada,Lunavada,370,14/12/2020,12/06/2020,M,76,Lunavada,Hindu,Retire,,12-2020
+Mahisagar,Lunavada,Lunavada,371,14/12/2020,12/12/2020,F,68,Lunavada,Hindu,Housewife,,12-2020
+Mahisagar,Lunavada,Lunavada,372,14/12/2020,12/12/2020,F,85,Lunavada,Hindu,Dhobikam,,12-2020
+Mahisagar,Lunavada,Lunavada,373,15/12/2020,12/06/2020,M,71,Lunavada,Islami,Retire,,12-2020
+Mahisagar,Lunavada,Lunavada,374,15/12/2020,15/12/2020,F,26,"Lilaviti Hospital, Lunavada",Hindu,Kheti,,12-2020
+Mahisagar,Lunavada,Lunavada,375,15/12/2020,12/02/2020,F,68,Lunavada,Hindu,Housewife,,12-2020
+Mahisagar,Lunavada,Lunavada,376,16/12/2020,12/03/2020,M,51,"Aayush Hospital, Lunavada",Hindu,Service ,,12-2020
+Mahisagar,Lunavada,Lunavada,377,16/12/2020,12/12/2020,F,81,Lunavada,Hindu,Housewife,,12-2020
+Mahisagar,Lunavada,Lunavada,378,16/12/2020,12/08/2020,F,75,Lunavada,Hindu,Housewife,,12-2020
+Mahisagar,Lunavada,Lunavada,379,16/12/2020,15/12/2020,M,66,Lunavada,Hindu,Kheti,,12-2020
+Mahisagar,Lunavada,Lunavada,380,17/12/2020,15/12/2020,M,50,Lunavada,Hindu,Ghandho,,12-2020
+Mahisagar,Lunavada,Lunavada,381,17/12/2020,15/12/2020,M,60,"Lilaviti Hospital, Lunavada",,,,12-2020
+Mahisagar,Lunavada,Lunavada,382,18/12/2020,30/11/2020,F,81,Lunavada,Islam,Nivurt,,12-2020
+Mahisagar,Lunavada,Lunavada,383,29/12/2020,18/12/2020,M,60,Lunavada,Hindu,Vepar,,12-2020
+Mahisagar,Lunavada,Lunavada,384,29/12/2020,20/12/2020,M,63,Lunavada,Hindu,Nivurt,,12-2020
+Mahisagar,Lunavada,Lunavada,385,22/12/2020,19/12/2020,F,75,Lunavada,Islam,Gharkam,,12-2020
+Mahisagar,Lunavada,Lunavada,386,23/12/2020,19/12/2020,F,40,Lilavati Hospital,Hindu,Gharkam,,12-2020
+Mahisagar,Lunavada,Lunavada,387,23/12/2020,19/12/2020,F,26,Lunavada,Islam,Gharkam,,12-2020
+Mahisagar,Lunavada,Lunavada,388,23/12/2020,21/12/2020,F,49,Lunavada,Hindu,Gharkam,,12-2020
+Mahisagar,Lunavada,Lunavada,389,23/12/2020,13/12/2020,M,104,Lunavada,Islam,Majuri,,12-2020
+Mahisagar,Lunavada,Lunavada,390,23/12/2020,16/12/2020,M,83,Lilavati Hospital,Hindu,Kehti,,12-2020
+Mahisagar,Lunavada,Lunavada,391,23/12/2020,03/12/2020,F,70,Lunavada,Hindu,Gharkam,,12-2020
+Mahisagar,Lunavada,Lunavada,392,24/12/2012,13/12/2020,F,67,Lunavada,Hindu,Gharkam,,12-2012
+Mahisagar,Lunavada,Lunavada,393,29/12/2020,13/12/2020,F,49,Lunavada,Hindu,Gharkam,,12-2020
+Mahisagar,Lunavada,Lunavada,394,30/12/2020,16/12/2020,F,79,Lunavada,Islam,Gharkam,,12-2020
+Mahisagar,Lunavada,Lunavada,1,02/01/2021,02/01/2021,M,80,Lilavati Hospital,HINDU,Kheti,,1-2021
+Mahisagar,Lunavada,Lunavada,2,04/01/2021,01/01/2021,M,82,Lunavada,ISLAM,Nivrut,,1-2021
+Mahisagar,Lunavada,Lunavada,3,04/11/2012,11/12/2020,F,88,Lunavada,HINDU,Gharkam,,11-2012
+Mahisagar,Lunavada,Lunavada,4,05/11/2020,04/01/2021,F,45,Lunavada,HINDU,Gharkam,,11-2020
+Mahisagar,Lunavada,Lunavada,5,06/01/2021,12/12/2020,M,74,Junral Hospital,HINDU,Kheti,,1-2021
+Mahisagar,Lunavada,Lunavada,6,06/01/2021,23/12/2020,M,87,Lunavada,HINDU,Mochikam,,1-2021
+Mahisagar,Lunavada,Lunavada,7,06/01/2021,30/12/2020,M,75,Lunavada,ISLAM,Ritayard,,1-2021
+Mahisagar,Lunavada,Lunavada,8,06/01/2021,09/12/2020,F,57,Lunavada,HINDU,Gharkam,,1-2021
+Mahisagar,Lunavada,Lunavada,9,08/01/2021,03/01/2021,F,52,Lunavada,HINDU,Gharkam,,1-2021
+Mahisagar,Lunavada,Lunavada,10,12/01/2021,08/01/2021,M,65,Lilavati Hospital,HINDU,Nivrut,,1-2021
+Mahisagar,Lunavada,Lunavada,11,13/01/2020,09/01/2021,F,28,Junral Hospital,HINDU,Majuri,,1-2020
+Mahisagar,Lunavada,Lunavada,12,16/01/2021,06/01/2021,F,62,Lunavada,ISLAM,Gharkam,,1-2021
+Mahisagar,Lunavada,Lunavada,13,16/01/2021,12/05/2021,F,55,Lunavada,HINDU,Nivrut,,1-2021
+Mahisagar,Lunavada,Lunavada,14,18/01/2021,13/01/2021,M,45,Lunavada,HINDU,Majuri,,1-2021
+Mahisagar,Lunavada,Lunavada,15,18/01/2021,18/01/2021,M,65,Lunavada,HINDU,Nivrut,,1-2021
+Mahisagar,Lunavada,Lunavada,16,18/01/2021,25/02/2020,M,80,Lunavada,ISLAM,Nivrut,,1-2021
+Mahisagar,Lunavada,Lunavada,17,20/01/2021,14/01/2021,M,43,Lunavada,HINDU,Majuri,,1-2021
+Mahisagar,Lunavada,Lunavada,18,20/09/2021,09/01/2021,M,64,Lunavada,ISLAM,Nokri,,9-2021
+Mahisagar,Lunavada,Lunavada,19,20/01/2021,13/01/2021,F,70,Lunavada,HINDU,Majuri,,1-2021
+Mahisagar,Lunavada,Lunavada,20,20/01/2021,16/01/2021,F,7,Lilavati Hospital,HINDU,Majuri,,1-2021
+Mahisagar,Lunavada,Lunavada,21,20/01/2021,12/01/2021,M,83,Lunavada,HINDU,Ritayard,,1-2021
+Mahisagar,Lunavada,Lunavada,22,22/01/2021,22/01/2021,M,80,Bhavsar Hospital,HINDU,Kheti,,1-2021
+Mahisagar,Lunavada,Lunavada,23,22/01/2021,08/01/2021,F,80,Lunavada,ISLAM,Gharkam,,1-2021
+Mahisagar,Lunavada,Lunavada,24,25/01/2021,06/01/2021,F,80,Lunavada,HINDU,Nivrut,,1-2021
+Mahisagar,Lunavada,Lunavada,25,27/01/2021,19/01/2021,F,95,Navadharo,HINDU,Gharkam,,1-2021
+Mahisagar,Lunavada,Lunavada,26,27/01/2021,10/01/2021,F,74,Lunavada,HINDU,Gharkam,,1-2021
+Mahisagar,Lunavada,Lunavada,27,27/01/2021,26/01/2021,M,28,Lilavati Hospital,HINDU,Kheti,,1-2021
+Mahisagar,Lunavada,Lunavada,28,27/01/2021,29/01/2021,M,82,Lilavati Hospital,HINDU,Kheti,,1-2021
+Mahisagar,Lunavada,Lunavada,29,27/01/2021,25/01/2021,F,45,Lilavati Hospital,HINDU,Kheti,,1-2021
+Mahisagar,Lunavada,Lunavada,30,27/01/2021,27/01/2021,F,40,Bhavsar Hospital,HINDU,Gharkam,,1-2021
+Mahisagar,Lunavada,Lunavada,31,27/01/2021,12/01/2021,F,69,Lunavada,HINDU,Gharkam,,1-2021
+Mahisagar,Lunavada,Lunavada,32,28/01/2021,05/01/2021,M,12,Lunavada,ISLAM,,,1-2021
+Mahisagar,Lunavada,Lunavada,33,29/01/2021,19/01/2021,M,35,Lunavada,HINDU,Majuri,,1-2021
+Mahisagar,Lunavada,Lunavada,34,29/01/2021,09/01/2021,M,81,Lunavada,ISLAM,Vepar,,1-2021
+Mahisagar,Lunavada,Lunavada,35,30/01/2021,22/01/2021,F,17 Days,Lunavada,ISLAM,Vepar,,1-2021
+Mahisagar,Lunavada,Lunavada,36,30/01/2021,20/01/2021,M,50,Lunavada,HINDU,Majuri,,1-2021
+Mahisagar,Lunavada,Lunavada,37,30/01/2021,31/12/2020,F,79,Lunavada,ISLAM,House Wife,,1-2021
+Mahisagar,Lunavada,Lunavada,38,02/02/2021,30/01/2021,M,74,Lunavada,HINDU,Nivrut,,2-2021
+Mahisagar,Lunavada,Lunavada,39,02/02/2021,26/01/2021,M,55,Lunavada,ISLAM,Vepar,,2-2021
+Mahisagar,Lunavada,Lunavada,40,02/02/2021,22/01/2021,M,86,Lunavada,ISLAM,Majuri,,2-2021
+Mahisagar,Lunavada,Lunavada,41,02/02/2021,29/01/2021,M,70,Kirshna Sarjikal Hospital,ISLAM,Nivrut,,2-2021
+Mahisagar,Lunavada,Lunavada,42,02/02/2021,28/01/2021,M,76,Lunavada,ISLAM,Nivrut,,2-2021
+Mahisagar,Lunavada,Lunavada,43,04/02/2021,01/02/2021,F,85,Lunavada,HINDU,Nivrut,,2-2021
+Mahisagar,Lunavada,Lunavada,44,05/02/2021,04/02/2021,M,35,Lilavati Hospital,HINDU,House Wife,,2-2021
+Mahisagar,Lunavada,Lunavada,45,05/02/2021,04/02/2021,M,60,Lunavada,HINDU,Kheti,,2-2021
+Mahisagar,Lunavada,Lunavada,46,05/02/2021,01/02/2021,M,42,Lunavada,HINDU,Majuri,,2-2021
+Mahisagar,Lunavada,Lunavada,47,08/02/2021,23/01/2021,F,50,Lunavada,ISLAM,Gharkam,,2-2021
+Mahisagar,Lunavada,Lunavada,48,08/02/2021,03/02/2021,F,70,Lunavada,ISLAM,Nivrut,,2-2021
+Mahisagar,Lunavada,Lunavada,49,11/02/2021,12/01/2021,F,72,Krushna Karva,HINDU,Gharkam,,2-2021
+Mahisagar,Lunavada,Lunavada,50,15/02/2021,09/02/2021,M,78,Lunavada,ISLAM,Nivrut,,2-2021
+Mahisagar,Lunavada,Lunavada,51,15/02/2021,30/01/2021,F,42,Lunavada,ISLAM,Gharkam,,2-2021
+Mahisagar,Lunavada,Lunavada,52,15/02/2021,12/02/2021,F,76,Lunavada,ISLAM,Gharkam,,2-2021
+Mahisagar,Lunavada,Lunavada,53,17/02/2021,04/02/2021,M,69,Lunavada,HINDU,Pensan,,2-2021
+Mahisagar,Lunavada,Lunavada,54,17/02/2021,27/01/2021,F,92,Lunavada,ISLAM,Nivrut,,2-2021
+Mahisagar,Lunavada,Lunavada,55,17/02/2021,13/07/2021,F,40,Bhavsar Hospital,HINDU,Nivrut,,2-2021
+Mahisagar,Lunavada,Lunavada,56,17-02--2021,09/02/2021,M,67,Lunavada,HINDU,Vepar,,#VALUE!
+Mahisagar,Lunavada,Lunavada,57,18/02/2021,17/02/2021,M,63,Lilavati Hospital,HINDU,Kheti,,2-2021
+Mahisagar,Lunavada,Lunavada,58,19/02/2021,28/01/2021,F,63,Lunavada,ISLAM,Gharkam,,2-2021
+Mahisagar,Lunavada,Lunavada,59,22/02/2021,20/02/2021,F,52,Bhakti Hospital,HINDU,Nokri,,2-2021
+Mahisagar,Lunavada,Lunavada,60,22/02/2021,18/02/2021,F,42,Lunavada,ISLAM,Gharkam,,2-2021
+Mahisagar,Lunavada,Lunavada,61,22/02/2021,18/02/2021,M,51,Lunavada,ISLAM,Darjikam,,2-2021
+Mahisagar,Lunavada,Lunavada,62,24/02/2021,30/01/2021,M,80,Lunavada,ISLAM,Majuri,,2-2021
+Mahisagar,Lunavada,Lunavada,63,24/02/2021,20/02/2021,M,77,Lunavada,HINDU,Nivrut,,2-2021
+Mahisagar,Lunavada,Lunavada,64,24/02/2021,20/02/2021,F,60,Lunavada,HINDU,Gharkam,,2-2021
+Mahisagar,Lunavada,Lunavada,65,26/02/2021,18/02/2021,M,58,Lunavada,ISLAM,Darjikam,,2-2021
+Mahisagar,Lunavada,Lunavada,66,26/02/2021,22/02/2021,M,60,Lunavada,HINDU,Majuri,,2-2021
+Mahisagar,Lunavada,Lunavada,67,26/02/2021,22/02/2021,F,58,Bhakti Hospital,HINDU,Gharkam,,2-2021
+Mahisagar,Lunavada,Lunavada,68,26/02/2021,11/02/2021,F,80,Lunavada,HINDU,Nivrut,,2-2021
+Mahisagar,Lunavada,Lunavada,69,26/02/2021,13/02/2021,F,97,Lunavada,HINDU,Gharkam,,2-2021
+Mahisagar,Lunavada,Lunavada,70,01/03/2021,24/02/2021,M,70,Lunavada,HINDU,Ritayard,,3-2021
+Mahisagar,Lunavada,Lunavada,71,01/03/2021,20/02/2021,F,80,Lunavada,HINDU,Gharkam,,3-2021
+Mahisagar,Lunavada,Lunavada,72,02/03/2021,02/02/2021,M,49,Lunavada,HINDU,Kadiyakam,,3-2021
+Mahisagar,Lunavada,Lunavada,73,02/03/2021,02/02/2021,M,41,Lilavati Hospital,HINDU,S.T. Nokri,,3-2021
+Mahisagar,Lunavada,Lunavada,74,02/06/2021,01/03/2021,F,65,Lilavati Hospital,ISLAM,Gharkam,,6-2021
+Mahisagar,Lunavada,Lunavada,75,04/03/2021,18/02/2021,F,42,Aayush Hospital,HINDU,Gharkam,,3-2021
+Mahisagar,Lunavada,Lunavada,76,04/03/2021,25/02/2021,M,76,Lunavada,ISLAM,Nivrut,,3-2021
+Mahisagar,Lunavada,Lunavada,77,05/03/2021,02/03/2021,F,70,Lunavada,HINDU,Gharkam,,3-2021
+Mahisagar,Lunavada,Lunavada,78,06/03/2021,22/02/2021,F,22,Lunavada,ISLAM,Gharkam,,3-2021
+Mahisagar,Lunavada,Lunavada,79,09/03/2021,28/02/2021,F,32,Junral Hospital,HINDU,Majuri,,3-2021
+Mahisagar,Lunavada,Lunavada,80,09/03/2021,08/03/2021,M,9 Kalak,Junral Hospital,HINDU,Majuri,,3-2021
+Mahisagar,Lunavada,Lunavada,81,10/03/2021,09/03/2021,F,70,Lunavada,HINDU,Gharkam,,3-2021
+Mahisagar,Lunavada,Lunavada,82,10/03/2021,03/03/2021,F,81,Lunavada,HINDU,Gharkam,,3-2021
+Mahisagar,Lunavada,Lunavada,83,10/03/2021,07/03/2021,M,45,Lilavati Hospital,HINDU,Motor Kamkaj,,3-2021
+Mahisagar,Lunavada,Lunavada,84,12/03/2021,08/03/2021,F,60,Lilavati Hospital,HINDU,Kheti,,3-2021
+Mahisagar,Lunavada,Lunavada,85,15/03/2021,09/03/2021,F,55,Lunavada,HINDU,Gharkam,,3-2021
+Mahisagar,Lunavada,Lunavada,86,15/03/2021,10/03/2021,M,70,Lunavada,HINDU,Vepar,,3-2021
+Mahisagar,Lunavada,Lunavada,87,15/03/2021,13/03/2021,F,69,Lunavada,HINDU,Gharkam,,3-2021
+Mahisagar,Lunavada,Lunavada,88,15/03/2021,06/03/2021,M,70,Lilavati Hospital,HINDU,Kheti,,3-2021
+Mahisagar,Lunavada,Lunavada,89,16/03/2021,03/03/2021,M,82,Lunavada,HINDU,Kheti,,3-2021
+Mahisagar,Lunavada,Lunavada,90,16/03/2021,13/03/2021,M,86,Lunavada,HINDU,Nivrut Techer,,3-2021
+Mahisagar,Lunavada,Lunavada,91,16/03/2021,13/03/2021,M,75,Lunavada,HINDU,Vepar,,3-2021
+Mahisagar,Lunavada,Lunavada,92,19/03/2021,15/03/2021,F,59,Lunavada,HINDU,Gharkam,,3-2021
+Mahisagar,Lunavada,Lunavada,93,19/03/2021,16/11/2016,F,80,Lunavada,HINDU,Nivrut,,3-2021
+Mahisagar,Lunavada,Lunavada,94,20/03/2021,18/03/2021,M,59,Lunavada,HINDU,Yajman Nivrut,,3-2021
+Mahisagar,Lunavada,Lunavada,95,23/03/2021,19/03/2021,M,45,Lilavati Hospital,HINDU,Kadiyakam,,3-2021
+Mahisagar,Lunavada,Lunavada,96,23/03/2021,19/03/2021,F,50,Lilavati Hospital,HINDU,Kheti,,3-2021
+Mahisagar,Lunavada,Lunavada,97,23/03/2021,28/02/2021,F,39,Lilavati Hospital,HINDU,Majuri,,3-2021
+Mahisagar,Lunavada,Lunavada,98,25/03/2021,24/03/2021,M,45,Lunavada,HINDU,Majuri,,3-2021
+Mahisagar,Lunavada,Lunavada,99,26/03/2021,14/03/2021,F,80,Lunavada,ISLAM,Gharkam,,3-2021
+Mahisagar,Lunavada,Lunavada,100,30/03/2021,02/03/2021,F,72,Lunavada,ISLAM,Gharkam,,3-2021
+Mahisagar,Lunavada,Lunavada,101,30/03/2021,22/03/2021,M,64,Lunavada,ISLAM,Nivrut,,3-2021
+Mahisagar,Lunavada,Lunavada,102,30/03/2021,24/03/2021,F,53,Lunavada,ISLAM,Gharkam,,3-2021
+Mahisagar,Lunavada,Lunavada,103,30/03/2021,26/03/2021,M,50,Bhavsar Hospital,HINDU,Sarpanch,,3-2021
+Mahisagar,Lunavada,Lunavada,104,30/03/2021,26/03/2021,F,50,Bhavsar Hospital,HINDU,Gharkam,,3-2021
+Mahisagar,Lunavada,Lunavada,105,30/03/2021,26/03/2021,F,70,Lunavada,ISLAM,Gharkam,,3-2021
+Mahisagar,Lunavada,Lunavada,106,30/03/2021,10/03/2021,M,57,Lunavada,ISLAM,Dravind,,3-2021
+Mahisagar,Lunavada,Lunavada,107,03/04/2021,13/03/2021,F,79,Lunavada,ISLAM,Gharkam,,4-2021
+Mahisagar,Lunavada,Lunavada,108,03/04/2021,15/03/2021,F,43,Lunavada,HINDU,Gharkam,,4-2021
+Mahisagar,Lunavada,Lunavada,109,03/04/2021,01/04/2021,M,45,Lunavada,HINDU,Majuri,,4-2021
+Mahisagar,Lunavada,Lunavada,110,03/04/2021,31/03/2021,M,89,Lunavada,HINDU,Ritayard,,4-2021
+Mahisagar,Lunavada,Lunavada,111,03/04/2021,01/04/2021,M,87,Lilavati Hospital,HINDU,Kheti,,4-2021
+Mahisagar,Lunavada,Lunavada,112,05/04/2021,23/03/2021,M,59,Lunavada,ISLAM,Nivrut,,4-2021
+Mahisagar,Lunavada,Lunavada,113,05/04/2021,04/04/2021,M,75,Bhavsar Hospital,HINDU,Kheti,,4-2021
+Mahisagar,Lunavada,Lunavada,114,07/04/2021,20/03/2021,F,40,Bhakti Hospital,HINDU,House Wife,,4-2021
+Mahisagar,Lunavada,Lunavada,115,07/04/2021,01/04/2021,M,47,Lunavada,HINDU,Sonikam,,4-2021
+Mahisagar,Lunavada,Lunavada,116,07/04/2021,01/04/2021,M,72,Lunavada,ISLAM,Chutak Vepar,,4-2021
+Mahisagar,Lunavada,Lunavada,117,07/04/2021,05/04/2021,F,75,Lunavada,HINDU,Gharkam,,4-2021
+Mahisagar,Lunavada,Lunavada,118,08/04/2021,01/04/2021,M,70,Lunavada,ISLAM,Nivrut Techer,,4-2021
+Mahisagar,Lunavada,Lunavada,119,09/04/2021,08/04/2021,F,55,Lilavati Hospital,HINDU,Kheti,,4-2021
+Mahisagar,Lunavada,Lunavada,120,09/04/2021,26/03/2021,M,60,Lunavada,HINDU,Nivrut,,4-2021
+Mahisagar,Lunavada,Lunavada,121,09/04/2021,03/04/2021,F,67,Lunavada,ISLAM,Gharkam,,4-2021
+Mahisagar,Lunavada,Lunavada,122,09/04/2021,07/04/2021,F,84,Lunavada,HINDU,Gharkam,,4-2021
+Mahisagar,Lunavada,Lunavada,123,12/04/2021,02/04/2021,F,86,Lunavada,ISLAM,Gharkam,,4-2021
+Mahisagar,Lunavada,Lunavada,124,12/04/2021,29/03/2021,M,63,Lunavada,HINDU,Nivrut,,4-2021
+Mahisagar,Lunavada,Lunavada,125,12/04/2021,09/04/2021,M,67,Lunavada,HINDU,Majuri,,4-2021
+Mahisagar,Lunavada,Lunavada,126,12/04/2021,08/04/2021,M,53,Lunavada,HINDU,Masinari Vepar,,4-2021
+Mahisagar,Lunavada,Lunavada,127,15/04/2021,11/04/2021,M,78,Lunavada,HINDU,Nivrut Clark,,4-2021
+Mahisagar,Lunavada,Lunavada,128,15/04/2021,06/04/2021,M,69,Lunavada,HINDU,Majuri,,4-2021
+Mahisagar,Lunavada,Lunavada,129,15/04/2021,08/04/2021,F,50,Lunavada,ISLAM,Gharkam,,4-2021
+Mahisagar,Lunavada,Lunavada,130,15/04/2021,12/04/2021,M,52,Sifa Sarjikal Hospital,HINDU,Nokkri,,4-2021
+Mahisagar,Lunavada,Lunavada,131,15/04/2021,31/01/2021,M,70,Kotej Chokdi,HINDU,Nivru,,4-2021
+Mahisagar,Lunavada,Lunavada,132,15/04/2021,09/04/2021,M,50,Lunavada,ISLAM,Riksha Drivar,,4-2021
+Mahisagar,Lunavada,Lunavada,133,20/04/2021,09/04/2021,M,70,Lunavada,HINDU,Hair Kating,,4-2021
+Mahisagar,Lunavada,Lunavada,134,20/04/2021,12/04/2021,M,59,Lunavada,ISLAM,Majuri,,4-2021
+Mahisagar,Lunavada,Lunavada,135,20/04/2021,17/04/2021,M,65,Lunavada,ISLAM,Majuri,,4-2021
+Mahisagar,Lunavada,Lunavada,136,23/04/2021,18/04/2021,F,65,Lunavada,HINDU,Gharkam,,4-2021
+Mahisagar,Lunavada,Lunavada,137,23/04/2021,19/04/2021,M,61,Lunavada,HINDU,Majuri,,4-2021
+Mahisagar,Lunavada,Lunavada,138,23/04/2021,23/01/2021,F,88,Lunavada,HINDU,Majuri,,4-2021
+Mahisagar,Lunavada,Lunavada,139,26/04/2021,22/04/2021,F,61,Lunavada,ISLAM,Gharkam,,4-2021
+Mahisagar,Lunavada,Lunavada,140,26/04/2021,22/04/2021,F,71,Lunavada,ISLAM,Gharkam,,4-2021
+Mahisagar,Lunavada,Lunavada,141,26/04/2021,22/04/2021,M,91,Lunavada,ISLAM,Nivrut Techer,,4-2021
+Mahisagar,Lunavada,Lunavada,142,26/04/2021,18/04/2021,M,71,Lunavada,ISLAM,Nokri,,4-2021
+Mahisagar,Lunavada,Lunavada,143,26/04/2021,21/04/2021,M,86,Lunavada,ISLAM,Nivrut,,4-2021
+Mahisagar,Lunavada,Lunavada,144,26/04/2021,21/04/2021,M,57,Lunavada,HINDU,Nokri,,4-2021
+Mahisagar,Lunavada,Lunavada,145,26/04/2021,17/04/2021,F,59,Lunavada,ISLAM,Majuri,,4-2021
+Mahisagar,Lunavada,Lunavada,146,27/04/2021,19/04/2021,M,59,Lunavada,ISLAM,Vepar,,4-2021
+Mahisagar,Lunavada,Lunavada,147,27/04/2021,24/04/2021,M,82,Lunavada,HINDU,Vepar,,4-2021
+Mahisagar,Lunavada,Lunavada,148,27/04/2021,23/04/2021,M,67,Lunavada,HINDU,Vepar,,4-2021
+Mahisagar,Lunavada,Lunavada,149,29/04/2021,15/04/2021,M,66,Lunavada,ISLAM,Vepar,,4-2021
+Mahisagar,Lunavada,Lunavada,150,30/04/2021,23/04/2021,M,44,Lunavada,ISLAM,Color Kam,,4-2021
+Mahisagar,Lunavada,Lunavada,151,30/04/2021,17/04/2021,M,43,Lunavada,ISLAM,Nivut,,4-2021
+Mahisagar,Lunavada,Lunavada,152,30/04/2021,17/04/2021,M,80,Lunavada,ISLAM,Nivrut,,4-2021
+Mahisagar,Lunavada,Lunavada,153,30/04/2021,29/04/2021,F,75,Lunavada,HINDU,Gharkam,,4-2021
+Mahisagar,Lunavada,Lunavada,154,30/04/2021,29/04/2021,F,60,Lunavada,HINDU,Gharkam,,4-2021
+Mahisagar,Lunavada,Lunavada,155,03/05/2021,28/04/2021,F,59,Lunavada,ISLAM,Gharkam,,5-2021
+Mahisagar,Lunavada,Lunavada,156,04/05/2021,18/04/2021,M,30,Pantam Bridge Pase J.E.B. Pase,HINDU,Draving,,5-2021
+Mahisagar,Lunavada,Lunavada,157,06/05/2021,16/04/2021,M,60,Nava Dhara,HINDU,Nivrut,,5-2021
+Mahisagar,Lunavada,Lunavada,158,07/05/2021,29/04/2021,F,65,Lunavada,ISLAM,Gharkam,,5-2021
+Mahisagar,Lunavada,Lunavada,159,07/05/2021,19/04/2021,M,75,Lunavada,HINDU,Majuri,,5-2021
+Mahisagar,Lunavada,Lunavada,160,07/05/2021,04/05/2021,F,65,Lunavada,HINDU,Gharkam,,5-2021
+Mahisagar,Lunavada,Lunavada,161,10/05/2021,03/05/2021,M,58,Junral Hospital,HINDU,Nokri,,5-2021
+Mahisagar,Lunavada,Lunavada,162,10/05/2021,02/05/2021,M,75,Lunavada,ISLAM,Majuri,,5-2021
+Mahisagar,Lunavada,Lunavada,163,10/05/2021,09/05/2021,F,78,Lunavada,HINDU,Gharkam,,5-2021
+Mahisagar,Lunavada,Lunavada,164,10/05/2021,02/05/2021,F,46,Lunavada,ISLAM,Gharkam,,5-2021
+Mahisagar,Lunavada,Lunavada,165,10/05/2021,03/05/2021,F,101,Lunavada,HINDU,Nivrut,,5-2021
+Mahisagar,Lunavada,Lunavada,166,01/05/2021,23/04/2021,F,62,Lunavada,HINDU,Gharkam,,5-2021
+Mahisagar,Lunavada,Lunavada,167,01/05/2021,28/04/2021,M,74,Lunavada,HINDU,Nivrut,,5-2021
+Mahisagar,Lunavada,Lunavada,168,12/05/2021,04/05/2021,F,40,Lunavada,ISLAM,Gharkam,,5-2021
+Mahisagar,Lunavada,Lunavada,169,12/05/2021,05/05/2021,F,82,Lunavada,ISLAM,Gharkam,,5-2021
+Mahisagar,Lunavada,Lunavada,170,12/05/2021,19/04/2021,M,75,Lunavada,HINDU,Chutak Vepar,,5-2021
+Mahisagar,Lunavada,Lunavada,171,12/05/2021,26/04/2021,M,74,Lunavada,ISLAM,Ritayard,,5-2021
+Mahisagar,Lunavada,Lunavada,172,12/05/2021,22/04/2021,M,64,Lunavada,HINDU,Majuri,,5-2021
+Mahisagar,Lunavada,Lunavada,173,12/05/2021,03/05/2021,M,46,Juna Karva Pandorni Muvadi,HINDU,Kheti,,5-2021
+Mahisagar,Lunavada,Lunavada,174,12/05/2021,01/05/2021,M,37,Junral Hospital,HINDU,Kheti,,5-2021
+Mahisagar,Lunavada,Lunavada,175,13/05/2021,03/05/2021,F,62,Lunavada,ISLAM,Gharkam,,5-2021
+Mahisagar,Lunavada,Lunavada,176,13/05/2021,21/04/2021,M,77,Lunavada,ISLAM,Nivrut,,5-2021
