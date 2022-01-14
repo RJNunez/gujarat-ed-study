@@ -165,7 +165,7 @@ res_municipalities <- map_df(municipalities, function(x) {
            ced_se = ced_se)
 })
 
-# -- Marginal percent Change from average
+# -- Marginal percent change from average
 pc_marginal <- res_municipalities %>%
   mutate(expected_se = expected * log_expected_se) %>%
   group_by(date) %>%
@@ -182,6 +182,22 @@ pc_marginal <- res_municipalities %>%
             expected_se = sqrt(sum(expected_se^2)),
             se          = sqrt(sum(tmp))) %>%
   ungroup()
+
+# -- Cumulative excess deaths from the overall analysis
+ced_overall <- res_municipalities %>%
+  group_by(date) %>%
+  summarize(ed        = sum(ed), 
+            ed_se     = sqrt(sum(ed_se^2)),
+            intercept = sum(intercept),
+            expected  = sum(expected)) %>%
+  ungroup() %>%
+  mutate(ced         = cumsum(ed),
+         ced_se      = sqrt(cumsum(ed_se^2)), 
+         lwr         = ced - 1.96*ced_se,
+         upr         = ced + 1.96*ced_se,
+         ced_adj     = ced / intercept,
+         ced_adj_lwr = ced / intercept - 1.96*ced_se / intercept,
+         ced_adj_upr = ced / intercept + 1.96*ced_se / intercept)
 ##########################################################################################################
 ################## -- END MARGINAL ANALYSIS --------------------------------------------- ################
 ##########################################################################################################
@@ -420,6 +436,25 @@ pc_marginal_sex <- res_sex %>%
             expected_se = sqrt(sum(expected_se^2)),
             se          = sqrt(sum(tmp))) %>%
   ungroup()
+
+# -- Cumulative excess deaths from the gender analysis
+ced_gender <- res_sex %>%
+  group_by(date, gender) %>%
+  summarize(ed        = sum(ed), 
+            ed_se     = sqrt(sum(ed_se^2)),
+            intercept = sum(intercept),
+            expected  = sum(expected)) %>%
+  ungroup() %>%
+  group_by(gender) %>%
+  mutate(ced         = cumsum(ed),
+         ced_se      = sqrt(cumsum(ed_se^2)), 
+         lwr         = ced - 1.96*ced_se,
+         upr         = ced + 1.96*ced_se,
+         ced_adj     = ced / intercept,
+         ced_adj_lwr = ced / intercept - 1.96*ced_se / intercept,
+         ced_adj_upr = ced / intercept + 1.96*ced_se / intercept) %>%
+  ungroup()
+
 ##########################################################################################################
 ################## -- END GENDER ANALYSIS ----------------------------------------------- ################
 ##########################################################################################################
@@ -805,6 +840,24 @@ pc_marginal_age <- res_age %>%
             expected_se = sqrt(sum(expected_se^2, na.rm = TRUE)),
             se          = sqrt(sum(tmp, na.rm = TRUE))) %>%
   ungroup()
+
+# -- Cumulative excess deaths from the age analysis
+ced_age <- res_age %>%
+  group_by(date, agegroup) %>%
+  summarize(ed        = sum(ed, na.rm = TRUE), 
+            ed_se     = sqrt(sum(ed_se^2, na.rm = TRUE)),
+            intercept = sum(intercept, na.rm = TRUE),
+            expected  = sum(expected, na.rm = TRUE)) %>%
+  ungroup() %>%
+  group_by(agegroup) %>%
+  mutate(ced         = cumsum(ed),
+         ced_se      = sqrt(cumsum(ed_se^2)), 
+         lwr         = ced - 1.96*ced_se,
+         upr         = ced + 1.96*ced_se,
+         ced_adj     = ced / intercept,
+         ced_adj_lwr = ced / intercept - 1.96*ced_se / intercept,
+         ced_adj_upr = ced / intercept + 1.96*ced_se / intercept) %>%
+  ungroup()
 ##########################################################################################################
 ################## -- END AGE ANALYSIS -------------------------------------------------- ################
 ##########################################################################################################
@@ -1054,12 +1107,143 @@ res_municipalities %>%
 ################## -- END FIGURE 3 ---------------------------------------------------------- ############
 ##########################################################################################################
 
+##########################################################################################################
+################## -- PERCENT CHANGE FROM AVERAGE OVER THE PANDEMIC ------------------------- ############
+##########################################################################################################
+# -- All the available data
+viz_dat %>%
+  filter(demo == "marginal") %>%
+  mutate(smooth    = expected * (1 + fitted),
+         smooth_se = sqrt(se^2 * expected_se^2 + expected^2 * se^2 + fitted^2 * expected_se^2)) %>%
+  group_by(demo) %>%
+  summarize(expected    = sum(expected),
+            observed    = sum(observed),
+            smooth      = sum(smooth),
+            expected_se = sqrt(sum(expected_se^2)),
+            smooth_se   = sqrt(sum(smooth_se^2))) %>%
+  mutate(pc  = smooth /  expected - 1,
+         pc2 = observed / expected - 1,
+         se  = sqrt(smooth_se^2 / expected^2 + (smooth^2 * expected_se^2) / expected^4), 
+         lwr = round(100 * (pc - 2 * se), 3),
+         upr = round(100 * (pc + 2 * se), 3),
+         pc  = round(100 * pc, 3),
+         pc_lwr = pc-lwr,
+         upr_pc = upr-pc) %>%
+  select(demo, pc, lwr, upr, pc_lwr, upr_pc)
 
+# -- First wave
+viz_dat %>%
+  filter(date >= "2020-04-29",
+         date <= "2021-01-08") %>%
+  mutate(smooth    = expected * (1 + fitted),
+         smooth_se = sqrt(se^2 * expected_se^2 + expected^2 * se^2 + fitted^2 * expected_se^2)) %>%
+  group_by(demo) %>%
+  summarize(expected    = sum(expected),
+            observed    = sum(observed),
+            smooth      = sum(smooth),
+            expected_se = sqrt(sum(expected_se^2)),
+            smooth_se   = sqrt(sum(smooth_se^2))) %>%
+  mutate(pc  = smooth /  expected - 1,
+         pc2 = observed / expected - 1,
+         se  = sqrt(smooth_se^2 / expected^2 + (smooth^2 * expected_se^2) / expected^4), 
+         lwr = round(100 * (pc - 2 * se), 3),
+         upr = round(100 * (pc + 2 * se), 3),
+         pc  = round(100 * pc, 3),
+         pc_lwr = pc-lwr,
+         upr_pc = upr-pc) %>%
+  select(demo, pc, lwr, upr, pc_lwr, upr_pc)
 
+# -- Second wave
+viz_dat %>%
+  filter(date >= "2021-03-26") %>%
+  mutate(smooth    = expected * (1 + fitted),
+         smooth_se = sqrt(se^2 * expected_se^2 + expected^2 * se^2 + fitted^2 * expected_se^2)) %>%
+  group_by(demo) %>%
+  summarize(expected    = sum(expected),
+            observed    = sum(observed),
+            smooth      = sum(smooth),
+            expected_se = sqrt(sum(expected_se^2)),
+            smooth_se   = sqrt(sum(smooth_se^2))) %>%
+  mutate(pc  = smooth /  expected - 1,
+         pc2 = observed / expected - 1,
+         se  = sqrt(smooth_se^2 / expected^2 + (smooth^2 * expected_se^2) / expected^4), 
+         lwr = round(100 * (pc - 2 * se), 3),
+         upr = round(100 * (pc + 2 * se), 3),
+         pc  = round(100 * pc, 3),
+         pc_lwr = pc-lwr,
+         upr_pc = upr-pc) %>%
+  select(demo, pc, lwr, upr, pc_lwr, upr_pc)
+##########################################################################################################
+################## -- END PERCENT CHANGE FROM AVERAGE OVER THE PANDEMIC --------------------- ############
+##########################################################################################################
 
+##########################################################################################################
+################## -- TOTAL DEATH METRICS ----------------------------------------------- ################
+##########################################################################################################
+# -- Dates
+dates <- tibble(date = seq(make_date(2019, 01, 01), make_date(2021, 12, 31), by = "days")) %>%
+  mutate(week = ifelse(week(date) == 53, 52, week(date)),
+         year = year(date)) %>%
+  group_by(year, week) %>%
+  filter(date == first(date)) %>%
+  ungroup()
 
+# -- Wrangling mortality data
+counts <- dat %>%
+  mutate(year = year(date),
+         week = ifelse(week(date) == 53, 52, week(date))) %>%
+  dplyr::select(-date) %>%
+  left_join(dates, by = c("week", "year")) %>%
+  group_by(date, village) %>%
+  summarize(outcome = n()) %>%
+  ungroup() %>%
+  mutate(year = year(date)) %>%
+  arrange(date) %>%
+  filter(date >= "2019-01-01",
+         date <= "2021-04-23")
 
+# -- Getting rid of bad quality data
+counts <- filter(counts, !village %in% c("Jetpur", "Modasa"))
 
+# -- Total deaths recorded during the pandemic
+counts %>%
+  filter(date >= "2020-01-01") %>%
+  summarize(total_deaths = sum(outcome))
 
+# -- Total deaths per year (2019 to 2021)
+counts %>%
+  group_by(year) %>%
+  summarize(total_deaths = sum(outcome))
+##########################################################################################################
+################## -- END TOTAL DEATH METRICS ------------------------------------------- ################
+##########################################################################################################
 
-
+##########################################################################################################
+################## -- CUMULATIVE EXCESS DEATHS ------------------------------------------ ################
+##########################################################################################################
+# -- Putting cumulative excess deaths results together
+mutate(ced_overall, demo = "marginal") %>%
+  select_at(c("date", "demo", "ed", "ed_se",
+              "intercept", "expected", "ced", "ced_se", "lwr",
+              "upr", "ced_adj", "ced_adj_lwr", "ced_adj_upr")) %>%
+  bind_rows(rename(ced_age, demo = agegroup)) %>%
+  bind_rows(rename(ced_gender, demo = gender)) %>%
+  mutate(demo = factor(demo, levels = c("(0,20]", "(20,40]", "(40,65]", "(65,Inf]", "female", "male", "marginal")),
+         cexp = cumsum(expected)) %>%
+  group_by(demo) %>%
+  filter(date == max(date)) %>%
+  ungroup() %>%
+  mutate(n   = nchar(as.character(round(ced_se))) - 1,
+         ced = round(ced, digits = -n),
+         lwr = round(lwr, digits = -n),
+         upr = round(upr, digits = -n),
+         ced = prettyNum(ced, big.mark = ","),
+         lwr = prettyNum(lwr, big.mark = ","),
+         upr = prettyNum(upr, big.mark = ","),
+         txt = paste0(ced, " [95% CI: ", lwr, " to ", upr, "]")) %>%
+  arrange(demo) %>%
+  select(demo, txt) %>%
+  setNames(c("Group", "Cumulative excess deaths"))
+##########################################################################################################
+################## -- END CUMULATIVE EXCESS DEATHS -------------------------------------- ################
+##########################################################################################################
