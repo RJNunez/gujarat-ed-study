@@ -1047,7 +1047,7 @@ viz_dat %>%
   facet_wrap(~group, ncol = 1,
              labeller = as_labeller(c("gender"   = "Gender analysis",
                                       "age"      = "Age analysis",
-                                      "marginal" = "Marginal analysis"))) +
+                                      "marginal" = "Overall analysis"))) +
   geom_line(size  = 1, 
             color = "white") +
   geom_line(show.legend = FALSE) +
