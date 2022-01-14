@@ -1247,3 +1247,32 @@ mutate(ced_overall, demo = "marginal") %>%
 ##########################################################################################################
 ################## -- END CUMULATIVE EXCESS DEATHS -------------------------------------- ################
 ##########################################################################################################
+
+##########################################################################################################
+################## -- MUNICIPALITY METRICS -------------------------------------------------- ############
+##########################################################################################################
+# -- Putting everything together
+res_municipality_all <- res_age %>%
+  select(date, village, fitted, se, intercept, ced, ced_se, agegroup) %>%
+  setNames(c("date", "village", "fitted", "se", "intercept", "ced", "ced_se", "demo")) %>%
+  bind_rows(res_sex %>%
+              select(date, village, fitted, se, intercept, ced, ced_se, gender) %>%
+              setNames(c("date", "village", "fitted", "se", "intercept", "ced", "ced_se", "demo"))) %>%
+  bind_rows(res_municipalities %>%
+              select(date, village, fitted, se, intercept, ced, ced_se) %>%
+              mutate(demo = "marginal"))
+
+# -- Metrics used in section 3.3
+res_municipality_all %>%
+  group_by(village, demo) %>%
+  filter(date == max(date)) %>%
+  ungroup() %>%
+  group_by(demo) %>%
+  summarize(num_municipalities = n(),
+            num_over_100       = sum(fitted >= 1),
+            num_over_500       = sum(fitted >= 5),
+            prop_over_100      = sum(fitted >= 1) / num_municipalities,
+            prop_over_500      = sum(fitted >= 5) / num_municipalities)
+##########################################################################################################
+################## -- END MUNICIPALITY METRICS ---------------------------------------------- ############
+##########################################################################################################
