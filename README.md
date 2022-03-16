@@ -1,6 +1,6 @@
 # All-cause excess mortality in the State of Gujarat, India, during the COVID-19 pandemic (March 2020-April2021)
 
-This repository holds all the code and data necessary to replicate the analyses in the study _All-cause excess mortality in the State of Gujarat, India, during the COVID-19 pandemic (March 2020-April2021)_.
+This repository holds all the code and data necessary to replicate the analyses in the study (_All-cause excess mortality in the State of Gujarat, India, during the COVID-19 pandemic (March 2020-April2021)_)[https://www.medrxiv.org/content/10.1101/2021.08.22.21262432v2].
 
 ### Folders
 - **code**: Contains all the code to replicate the analyses 
