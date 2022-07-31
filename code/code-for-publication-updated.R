@@ -48,6 +48,20 @@ village_out <- counts %>%
   pull(village) %>%
   unique(.)
 
+# -- Viz municipalities to take out
+counts %>%
+  filter(village %in% village_out) %>%
+  ggplot(aes(date, outcome)) +
+  facet_wrap(~village) +
+  geom_vline(xintercept = make_date(2020,03,01),
+             color      = "gray",
+             linetype   = 2) +
+  geom_point(alpha = 0.50) +
+  scale_x_date(date_labels = "%b") +
+  labs(x = "Date",
+       y = "Number of deaths",
+       color = "")
+
 # -- Getting rid of bad quality data
 counts <- filter(counts, !village %in% village_out)
 
@@ -107,6 +121,17 @@ fit <- glm(y ~ . - 1, family = "quasipoisson", data = X[train_idx,])
 levs <- intercepts %>%
   arrange(desc(intercept)) %>%
   pull(village)
+
+##
+intercepts %>%
+  ggplot(aes(intercept)) +
+  geom_density(fill  = "black",
+               alpha = 0.50) +
+  geom_point(aes(intercept, 0), 
+             shape = "|",
+             size  = 3) +
+  labs(x = expression(gamma[i]),
+       y = "Density")
 
 # -- Getting fitted values and ses
 preds_po <- predict(fit, newdata = X, se.fit = TRUE, type = "link")
@@ -211,6 +236,21 @@ ced_overall <- res_municipalities %>%
          ced_adj     = ced / intercept,
          ced_adj_lwr = ced / intercept - 1.96*ced_se / intercept,
          ced_adj_upr = ced / intercept + 1.96*ced_se / intercept)
+
+##
+ced_overall %>%
+  ggplot(aes(date, ced)) +
+  geom_ribbon(aes(ymin = lwr, ymax = upr),
+              alpha = 0.30) +
+  geom_line(size  = 1, 
+            color = "white") +
+  geom_line() +
+  geom_label(aes(x = make_date(2020,09,01), y = 20000, label = "21,300 [95% CI: 20,700 to 22,000]"),
+             fontface = "bold") +
+  scale_x_date(date_labels = "%b") +
+  scale_y_continuous(labels = scales::comma) +
+  labs(x = "Date",
+       y = "Cumulative excess deaths")
 ##########################################################################################################
 ################## -- END MARGINAL ANALYSIS --------------------------------------------- ################
 ##########################################################################################################
@@ -259,6 +299,7 @@ village_out <- counts %>%
   filter(p_train < p | p_test  < p) %>%
   pull(village) %>%
   unique(.)
+# Specifically, we excluded municiaplities with at least 60% missing data in either the train or test set
   
 # -- Adding municipalities with no data
 village_out <- c(village_out, "Boriavi", "Halvad", "Idar", "Okha", "Pardi", "Zalod")
@@ -731,10 +772,7 @@ res_40 <- map_df(setdiff(municipalities, village_out_40), function(x) {
 
 # -- Fitting second model to agegroup data
 res_65 <- map_df(setdiff(municipalities, village_out_65), function(x) {
-  
-  # -- Print current municipality
-  print(x)
-  
+
   # -- Subsetting data
   tmp_dat <- filter(test_counts_65, village == x)
   
@@ -865,7 +903,7 @@ ced_age <- res_age %>%
 ##########################################################################################################
 ################## -- FIGURE 1 ---------------------------------------------------------- ################
 ##########################################################################################################
-# -- Dates
+# -- Dates 
 dates <- tibble(date = seq(make_date(2019, 01, 01), make_date(2021, 12, 31), by = "days")) %>%
   mutate(week = ifelse(week(date) == 53, 52, week(date)),
          year = year(date)) %>%
@@ -1136,7 +1174,8 @@ viz_dat %>%
   filter(date >= "2020-04-29",
          date <= "2021-01-08") %>%
   mutate(smooth    = expected * (1 + fitted),
-         smooth_se = sqrt(se^2 * expected_se^2 + expected^2 * se^2 + fitted^2 * expected_se^2)) %>%
+         smooth_se  = sqrt(se^2 * expected_se^2 + expected^2 * se^2 + fitted^2 * expected_se^2),
+         smooth_se2 = sqrt(expected_se^2 + se^2 * expected_se^2 + expected^2 * se^2 + fitted^2 * expected_se^2)) %>%
   group_by(demo) %>%
   summarize(expected    = sum(expected),
             observed    = sum(observed),
@@ -1275,4 +1314,132 @@ res_municipality_all %>%
             prop_over_500      = sum(fitted >= 5) / num_municipalities)
 ##########################################################################################################
 ################## -- END MUNICIPALITY METRICS ---------------------------------------------- ############
+##########################################################################################################
+
+##########################################################################################################
+################## -- SUPPLEMENTAL TABLE 1 ---------------------------------------------- ################
+##########################################################################################################
+municipality <- all_municipalities
+marginal     <- municipality %in% marginal_municipalities
+male         <- municipality %in% unique(res_males$village)
+female       <- municipality %in% unique(res_females$village)
+in20         <- municipality %in% unique(res_20$village)
+in40         <- municipality %in% unique(res_40$village)
+in65         <- municipality %in% unique(res_65$village)
+inInf        <- municipality %in% unique(res_Inf$village)
+tab <- data.frame(municipality, marginal, male, female, in20, in40, in65, inInf)
+library(xtable)
+xtable(tab)
+##########################################################################################################
+################## -- END SUPPLEMENTAL TABLE 1 ---------------------------------------------- ############
+##########################################################################################################
+
+##########################################################################################################
+################## -- SUPP FIGURE 1 ---------------------------------------------------------- ###########
+##########################################################################################################
+# -- Dates 
+dates <- tibble(date = seq(make_date(2019, 01, 01), make_date(2021, 12, 31), by = "days")) %>%
+  mutate(week = ifelse(week(date) == 53, 52, week(date)),
+         year = year(date)) %>%
+  group_by(year, week) %>%
+  filter(date == first(date)) %>%
+  ungroup()
+
+# -- Wrangling mortality data
+counts <- dat %>%
+  filter(!village %in% c("Jetpur", "Modasa")) %>%
+  mutate(year = year(date),
+         week = ifelse(week(date) == 53, 52, week(date))) %>%
+  dplyr::select(-date) %>%
+  left_join(dates, by = c("week", "year")) %>%
+  group_by(date) %>%
+  summarize(outcome = n()) %>%
+  ungroup() %>%
+  mutate(year = year(date)) %>%
+  arrange(date) %>%
+  filter(date <= "2021-05-31")
+
+# -- Supp figure 1
+counts %>%
+  ggplot(aes(date, outcome, color = date <= "2021-04-23")) +
+  geom_point(alpha = 0.70) +
+  geom_vline(xintercept = ymd("2021-04-23"),
+             linetype   = 2, 
+             color      = "red3") +
+  scale_color_manual(values = c("red3", "black"),
+                     labels = c("Data not used", "Data used"),
+                     name   = "") +
+  scale_x_date(date_labels = "%b %Y") +
+  scale_y_continuous(breaks = seq(0, 5000, by = 1000),
+                     labels = scales::comma) +
+  labs(x = "Date",
+       y = "Number of deaths") +
+  theme(legend.text     = element_text(face = "bold"),
+        legend.position = c(0.50, 0.80))
+##########################################################################################################
+################## -- END SUPP FIGURE 1 ---------------------------------------------------------- #######
+##########################################################################################################
+
+##########################################################################################################
+################## -- SUPP FIGURES 5 7 6 ---------------------------------------------------------- ######
+##########################################################################################################
+# -- Supp Figure 5
+res_sex %>%
+  mutate(fitted_new = ifelse(fitted <= 0, 0, fitted),
+         fitted_new = ifelse(fitted >= 6, 6, fitted_new),
+         gender = ifelse(gender == "male", "Male", "Female")) %>%
+  ggplot(aes(date, reorder(village, intercept), fill = fitted_new)) +
+  facet_wrap(~gender) +
+  geom_tile(color = "black",
+            size  = 0.10) +
+  scale_fill_gradientn(colors = RColorBrewer::brewer.pal(9, "Reds"),
+                       breaks = 0:6,
+                       labels = c(expression(phantom(x) <= "0%"), "100%", "200%", "300%", "400%", "500%", expression(phantom(x) >= "600%"))) +
+  labs(x    = "Date",
+       y    = "",
+       fill = "Percent change \nfrom average") +
+  scale_x_date(date_labels = "%b") +
+  theme(panel.grid.major  = element_blank(),
+        legend.position   = "right", 
+        legend.background = element_rect(color = NA),
+        legend.key.height = unit(2.5, "cm"),
+        legend.direction  = "vertical",
+        axis.text.x       = element_text(size = 10),
+        axis.title        = element_text(size = 11),
+        axis.text.y       = element_text(size = 8, hjust = 1),
+        strip.background  = element_rect(fill = "#FBFCFC", color = NA),
+        strip.text        = element_text(color = "black", hjust = 0))
+
+# -- Supp Figure 6
+res_age %>%
+  mutate(fitted_new = ifelse(fitted <= 0, 0, fitted),
+         fitted_new = ifelse(fitted >= 6, 6, fitted_new),
+         agegroup   = case_when(agegroup == "(0,20]" ~ "Less than 20",
+                                agegroup == "(20,40]" ~ "20 to 40",
+                                agegroup == "(40,65]" ~ "40 to 65",
+                                agegroup == "(65,Inf]" ~ "65 and over"),
+         agegroup   = factor(agegroup, levels = c("Less than 20", "20 to 40", "40 to 65", "65 and over"))) %>% 
+  ggplot(aes(date, reorder(village, intercept), fill = fitted_new)) +
+  facet_wrap(~agegroup, ncol = 4) +
+  geom_tile(color = "black",
+            size  = 0.10) +
+  scale_fill_gradientn(colors = RColorBrewer::brewer.pal(9, "Reds"),
+                       breaks = 0:6,
+                       labels = c(expression(phantom(x) <= "0%"), "100%", "200%", "300%", "400%", "500%", expression(phantom(x) >= "600%"))) +
+  labs(x    = "Date",
+       y    = "",
+       fill = "Percent change \nfrom average") +
+  scale_x_date(date_labels = "%b") +
+  theme(panel.grid.major  = element_blank(),
+        legend.position   = "right", 
+        legend.background = element_rect(color = NA),
+        legend.key.height = unit(2.5, "cm"),
+        legend.direction  = "vertical",
+        axis.text.x       = element_text(size = 10),
+        axis.title        = element_text(size = 11),
+        axis.text.y       = element_text(size = 8, hjust = 1),
+        strip.background  = element_rect(fill = "#FBFCFC", color = NA),
+        strip.text        = element_text(color = "black", hjust = 0))
+##########################################################################################################
+################## -- END SUPP FIGURES 5 7 6 ---------------------------------------------------------- ##
 ##########################################################################################################
